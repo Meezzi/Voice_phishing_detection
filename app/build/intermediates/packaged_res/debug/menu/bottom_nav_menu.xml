@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_callLog"
+        android:icon="@drawable/ic_call"
+        android:title="@string/title_callLog" />
+
+    <item
+        android:id="@+id/navigation_record"
+        android:icon="@drawable/ic_mic"
+        android:title="@string/title_record" />
+
+    <item
+        android:id="@+id/navigation_list"
+        android:icon="@drawable/ic_list"
+        android:title="@string/title_list" />
+
+    <item
+        android:id="@+id/navigation_myPage"
+        android:icon="@drawable/ic_user"
+        android:title="@string/title_myPage" />
+
+</menu>

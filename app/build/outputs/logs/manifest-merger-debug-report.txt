@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d65c554ecbb1eb12ffc0914b11dd362a\transformed\navigation-ui-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\f053ca72a4906620f9d7f529c412475e\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a9b1969bb5812a2f09bc644343aeb992\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c9b0cbab25b5d487877c20b6c5f8f570\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\11fcf320406799e79bb9f5d5fc2c01da\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d992b664a422085a99d05cafbf669e96\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2a7f4749ced1877258217ab8cd3162a9\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\430c7d56da58dbd5db15fb73bf8b9144\transformed\navigation-common-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ee9299e0dd80c919bea3d22d68c3c13d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce21111078a168e50a2a640a6bb0ae35\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c954256298e03fa9e55aff6bfaab3a2f\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\edcdf00559453ac5f7364b461524ff25\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\22af41d6efc01e2b1f6684642bfbf4e6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2ffd33c42ee9142780d270ad93a06b80\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\558a376c9715ce970c82065b28321b39\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\787612b095d77188a256307ff6ce00dd\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\852142c55912a7c2ba8a08c355278db0\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0937b5f608ceb8589a3d11dcbbf82c43\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\92389d42dacee50431fdf899a9097c97\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4a304de5f8c3556808c256dfcb946220\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a8679e86c596eacd88a37e3e0f2d577f\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4256eb7d1165099cdd30ddd844e112fc\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\b2c9303d3cb795a3ed7b259377fc2836\transformed\butterknife-runtime-10.2.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\19db707dbaf9b389e2209eac0e8e8558\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\387d5ef4643d90387856cf012a81eaaf\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\723b527080d8bc891ec61cc6708a9ae6\transformed\core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a32d82e6af18449b0f4026f574aea670\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\499b31ac44dbc3e5ee6349c236d033a9\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2b328485faf5643b6b0505e22d86ba80\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\91268df8ffd79857440e160d9aebbf42\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\34a050cd51caa4aed390b516d843ac7f\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2805ee03bf31be31fdf16bad4c3aa5a5\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\18bea7d8b6ce63feab6ed492d57d56cb\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4b77aac304594f0abde21a3c597f4485\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0efe567aacb37b6e3052ec6fca0bebe1\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:10:5-39:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a32d82e6af18449b0f4026f574aea670\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a32d82e6af18449b0f4026f574aea670\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:16:9-50
+	tools:targetApi
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:14:9-39
+	android:allowBackup
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:18:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:12:9-65
+activity#com.example.YourVoice.login.LoginActivity
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:20:9-22:38
+	android:exported
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:21:13-48
+activity#com.example.YourVoice.login.JoinActivity
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:23:9-25:38
+	android:exported
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:24:13-47
+activity#com.example.YourVoice.SplashScreen
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:30:13-47
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.example.YourVoice.MainActivity
+ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:36:9-38:38
+	android:exported
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:37:13-41
+uses-sdk
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d65c554ecbb1eb12ffc0914b11dd362a\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d65c554ecbb1eb12ffc0914b11dd362a\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\f053ca72a4906620f9d7f529c412475e\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\f053ca72a4906620f9d7f529c412475e\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a9b1969bb5812a2f09bc644343aeb992\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a9b1969bb5812a2f09bc644343aeb992\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c9b0cbab25b5d487877c20b6c5f8f570\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c9b0cbab25b5d487877c20b6c5f8f570\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\11fcf320406799e79bb9f5d5fc2c01da\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\11fcf320406799e79bb9f5d5fc2c01da\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d992b664a422085a99d05cafbf669e96\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d992b664a422085a99d05cafbf669e96\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2a7f4749ced1877258217ab8cd3162a9\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2a7f4749ced1877258217ab8cd3162a9\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\430c7d56da58dbd5db15fb73bf8b9144\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\430c7d56da58dbd5db15fb73bf8b9144\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ee9299e0dd80c919bea3d22d68c3c13d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ee9299e0dd80c919bea3d22d68c3c13d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce21111078a168e50a2a640a6bb0ae35\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce21111078a168e50a2a640a6bb0ae35\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c954256298e03fa9e55aff6bfaab3a2f\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c954256298e03fa9e55aff6bfaab3a2f\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\edcdf00559453ac5f7364b461524ff25\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\edcdf00559453ac5f7364b461524ff25\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\22af41d6efc01e2b1f6684642bfbf4e6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\22af41d6efc01e2b1f6684642bfbf4e6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2ffd33c42ee9142780d270ad93a06b80\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2ffd33c42ee9142780d270ad93a06b80\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\558a376c9715ce970c82065b28321b39\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\558a376c9715ce970c82065b28321b39\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\787612b095d77188a256307ff6ce00dd\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\787612b095d77188a256307ff6ce00dd\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\852142c55912a7c2ba8a08c355278db0\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\852142c55912a7c2ba8a08c355278db0\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0937b5f608ceb8589a3d11dcbbf82c43\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0937b5f608ceb8589a3d11dcbbf82c43\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\92389d42dacee50431fdf899a9097c97\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\92389d42dacee50431fdf899a9097c97\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9b680f4524c73cf4651435f7b7ab96a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4a304de5f8c3556808c256dfcb946220\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4a304de5f8c3556808c256dfcb946220\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a8679e86c596eacd88a37e3e0f2d577f\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a8679e86c596eacd88a37e3e0f2d577f\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4256eb7d1165099cdd30ddd844e112fc\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4256eb7d1165099cdd30ddd844e112fc\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\b2c9303d3cb795a3ed7b259377fc2836\transformed\butterknife-runtime-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\b2c9303d3cb795a3ed7b259377fc2836\transformed\butterknife-runtime-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\19db707dbaf9b389e2209eac0e8e8558\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\19db707dbaf9b389e2209eac0e8e8558\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\387d5ef4643d90387856cf012a81eaaf\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\387d5ef4643d90387856cf012a81eaaf\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\723b527080d8bc891ec61cc6708a9ae6\transformed\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\723b527080d8bc891ec61cc6708a9ae6\transformed\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a32d82e6af18449b0f4026f574aea670\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a32d82e6af18449b0f4026f574aea670\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\499b31ac44dbc3e5ee6349c236d033a9\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\499b31ac44dbc3e5ee6349c236d033a9\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2b328485faf5643b6b0505e22d86ba80\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2b328485faf5643b6b0505e22d86ba80\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\91268df8ffd79857440e160d9aebbf42\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\91268df8ffd79857440e160d9aebbf42\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\34a050cd51caa4aed390b516d843ac7f\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\34a050cd51caa4aed390b516d843ac7f\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2805ee03bf31be31fdf16bad4c3aa5a5\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2805ee03bf31be31fdf16bad4c3aa5a5\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\18bea7d8b6ce63feab6ed492d57d56cb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\18bea7d8b6ce63feab6ed492d57d56cb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4b77aac304594f0abde21a3c597f4485\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\4b77aac304594f0abde21a3c597f4485\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0efe567aacb37b6e3052ec6fca0bebe1\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0efe567aacb37b6e3052ec6fca0bebe1\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\c91ee04b2e3e2b4e3408d247f58d785c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51

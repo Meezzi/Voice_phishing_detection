@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your\nVoice</string>
+    <string name="title_callLog">통화기록</string>
+    <string name="title_list">차단목록</string>
+    <string name="title_record">녹음파일</string>
+    <string name="title_myPage">마이페이지</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
