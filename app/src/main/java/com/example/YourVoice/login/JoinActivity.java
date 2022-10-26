@@ -15,7 +15,7 @@ import com.example.YourVoice.R;
 
 public class JoinActivity extends AppCompatActivity {
     private EditText join_id, join_password, join_name, join_pwck,join_phone_num,join_rrn,numcheck;
-    private Button join_button, check_button,btn_change,join_read;
+    private Button join_button, join_login,btn_change,join_read;
     private AlertDialog dialog;
     private boolean validate = false;
     private CheckBox ch;
@@ -27,17 +27,10 @@ public class JoinActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_join);
-        join_id = (EditText)findViewById(R.id.join_id);
-        join_password = (EditText)findViewById(R.id.join_password);
-        join_name = (EditText)findViewById(R.id.join_name);
+        join_id = (EditText)findViewById(R.id.join_email);
         join_pwck = findViewById(R.id.join_pwck);
-        join_phone_num = (EditText)findViewById(R.id.join_number);
-        join_rrn = findViewById(R.id.rrn);
-        join_read = findViewById(R.id.terms_of_use);
-        check_button = findViewById(R.id.check_button);
-        numcheck = findViewById(R.id.join_numbercheck);
-        ch = findViewById(R.id.checkBox1);
         join_button = findViewById(R.id.join_button);
+        join_login = findViewById(R.id.join_login);
         join_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -48,6 +41,11 @@ public class JoinActivity extends AppCompatActivity {
                 Intent intent = new Intent(getApplicationContext(),LoginActivity.class);
                 startActivity(intent);
             }
+        });
+
+        join_button.setOnClickListener(view -> {
+            Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
+            startActivity(intent);
         });
 
         getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_PAN);

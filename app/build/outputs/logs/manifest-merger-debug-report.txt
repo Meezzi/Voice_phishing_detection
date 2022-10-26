@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
@@ -61,39 +61,57 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alswl\Downloads\
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:4:5-36
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:6:5-75
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:6:5-75
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:6:22-72
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:6:22-72
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:7:5-78
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:7:5-78
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:7:22-75
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:7:22-75
 uses-permission#android.permission.READ_CALL_LOG
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:8:5-72
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:8:5-72
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:8:22-69
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:9:5-11:40
+	tools:ignore
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:11:9-37
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:10:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:14:22-68
 application
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:10:5-39:19
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:16:5-52:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -113,63 +131,77 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\al
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:21:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:19:9-54
 	android:roundIcon
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:16:9-50
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:22:9-50
 	tools:targetApi
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:19:9-29
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:25:9-29
 	android:icon
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:14:9-39
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:20:9-39
 	android:allowBackup
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:18:9-47
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:24:9-47
 	android:dataExtractionRules
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:12:9-65
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:18:9-65
+activity#com.example.YourVoice.GoogleSTTActivity
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:27:13-46
 activity#com.example.YourVoice.login.LoginActivity
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:20:9-22:38
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:29:9-31:39
 	android:exported
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:21:13-48
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:30:13-48
 activity#com.example.YourVoice.login.JoinActivity
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:23:9-25:38
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:32:9-34:39
 	android:exported
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:25:13-36
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:24:13-47
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:33:13-47
 activity#com.example.YourVoice.SplashScreen
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:27:9-35:20
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:35:9-44:20
 	android:exported
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:37:13-36
 	android:theme
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:30:13-47
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:38:13-47
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:28:13-41
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:36:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:31:13-34:29
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:42:27-74
 activity#com.example.YourVoice.MainActivity
-ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:36:9-38:38
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:45:9-47:39
 	android:exported
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:38:13-36
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:47:13-36
 	android:name
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml:37:13-41
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:46:13-41
+activity#com.example.YourVoice.login.RegisterActivity
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:48:9-51:54
+	android:exported
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:51:13-51
+	android:name
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:49:13-51
 uses-sdk
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:5:5-44
@@ -284,16 +316,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRec
 MERGED from [androidx.print:print:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alswl\AndroidStudioProjects\YourVoice\YourVoice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

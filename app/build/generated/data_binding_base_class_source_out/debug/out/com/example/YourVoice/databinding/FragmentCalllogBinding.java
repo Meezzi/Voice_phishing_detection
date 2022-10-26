@@ -4,6 +4,8 @@ package com.example.YourVoice.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,12 +22,77 @@ public final class FragmentCalllogBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textCallLog;
+  public final Button backbtn;
 
-  private FragmentCalllogBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textCallLog) {
+  @NonNull
+  public final TextView callEditText;
+
+  @NonNull
+  public final Button callbtn;
+
+  @NonNull
+  public final Button eightbtn;
+
+  @NonNull
+  public final Button fivebtn;
+
+  @NonNull
+  public final Button fourbtn;
+
+  @NonNull
+  public final LinearLayout linearLayout2;
+
+  @NonNull
+  public final LinearLayout linearLayout3;
+
+  @NonNull
+  public final LinearLayout linearLayout4;
+
+  @NonNull
+  public final Button ninebtn;
+
+  @NonNull
+  public final Button onebtn;
+
+  @NonNull
+  public final Button sevenbtn;
+
+  @NonNull
+  public final Button sixbtn;
+
+  @NonNull
+  public final Button thirdbtn;
+
+  @NonNull
+  public final Button twobtn;
+
+  @NonNull
+  public final Button zerobtn;
+
+  private FragmentCalllogBinding(@NonNull ConstraintLayout rootView, @NonNull Button backbtn,
+      @NonNull TextView callEditText, @NonNull Button callbtn, @NonNull Button eightbtn,
+      @NonNull Button fivebtn, @NonNull Button fourbtn, @NonNull LinearLayout linearLayout2,
+      @NonNull LinearLayout linearLayout3, @NonNull LinearLayout linearLayout4,
+      @NonNull Button ninebtn, @NonNull Button onebtn, @NonNull Button sevenbtn,
+      @NonNull Button sixbtn, @NonNull Button thirdbtn, @NonNull Button twobtn,
+      @NonNull Button zerobtn) {
     this.rootView = rootView;
-    this.textCallLog = textCallLog;
+    this.backbtn = backbtn;
+    this.callEditText = callEditText;
+    this.callbtn = callbtn;
+    this.eightbtn = eightbtn;
+    this.fivebtn = fivebtn;
+    this.fourbtn = fourbtn;
+    this.linearLayout2 = linearLayout2;
+    this.linearLayout3 = linearLayout3;
+    this.linearLayout4 = linearLayout4;
+    this.ninebtn = ninebtn;
+    this.onebtn = onebtn;
+    this.sevenbtn = sevenbtn;
+    this.sixbtn = sixbtn;
+    this.thirdbtn = thirdbtn;
+    this.twobtn = twobtn;
+    this.zerobtn = zerobtn;
   }
 
   @Override
@@ -55,13 +122,105 @@ public final class FragmentCalllogBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_callLog;
-      TextView textCallLog = ViewBindings.findChildViewById(rootView, id);
-      if (textCallLog == null) {
+      id = R.id.backbtn;
+      Button backbtn = ViewBindings.findChildViewById(rootView, id);
+      if (backbtn == null) {
         break missingId;
       }
 
-      return new FragmentCalllogBinding((ConstraintLayout) rootView, textCallLog);
+      id = R.id.callEditText;
+      TextView callEditText = ViewBindings.findChildViewById(rootView, id);
+      if (callEditText == null) {
+        break missingId;
+      }
+
+      id = R.id.callbtn;
+      Button callbtn = ViewBindings.findChildViewById(rootView, id);
+      if (callbtn == null) {
+        break missingId;
+      }
+
+      id = R.id.eightbtn;
+      Button eightbtn = ViewBindings.findChildViewById(rootView, id);
+      if (eightbtn == null) {
+        break missingId;
+      }
+
+      id = R.id.fivebtn;
+      Button fivebtn = ViewBindings.findChildViewById(rootView, id);
+      if (fivebtn == null) {
+        break missingId;
+      }
+
+      id = R.id.fourbtn;
+      Button fourbtn = ViewBindings.findChildViewById(rootView, id);
+      if (fourbtn == null) {
+        break missingId;
+      }
+
+      id = R.id.linearLayout2;
+      LinearLayout linearLayout2 = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout2 == null) {
+        break missingId;
+      }
+
+      id = R.id.linearLayout3;
+      LinearLayout linearLayout3 = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout3 == null) {
+        break missingId;
+      }
+
+      id = R.id.linearLayout4;
+      LinearLayout linearLayout4 = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout4 == null) {
+        break missingId;
+      }
+
+      id = R.id.ninebtn;
+      Button ninebtn = ViewBindings.findChildViewById(rootView, id);
+      if (ninebtn == null) {
+        break missingId;
+      }
+
+      id = R.id.onebtn;
+      Button onebtn = ViewBindings.findChildViewById(rootView, id);
+      if (onebtn == null) {
+        break missingId;
+      }
+
+      id = R.id.sevenbtn;
+      Button sevenbtn = ViewBindings.findChildViewById(rootView, id);
+      if (sevenbtn == null) {
+        break missingId;
+      }
+
+      id = R.id.sixbtn;
+      Button sixbtn = ViewBindings.findChildViewById(rootView, id);
+      if (sixbtn == null) {
+        break missingId;
+      }
+
+      id = R.id.thirdbtn;
+      Button thirdbtn = ViewBindings.findChildViewById(rootView, id);
+      if (thirdbtn == null) {
+        break missingId;
+      }
+
+      id = R.id.twobtn;
+      Button twobtn = ViewBindings.findChildViewById(rootView, id);
+      if (twobtn == null) {
+        break missingId;
+      }
+
+      id = R.id.zerobtn;
+      Button zerobtn = ViewBindings.findChildViewById(rootView, id);
+      if (zerobtn == null) {
+        break missingId;
+      }
+
+      return new FragmentCalllogBinding((ConstraintLayout) rootView, backbtn, callEditText, callbtn,
+          eightbtn, fivebtn, fourbtn, linearLayout2, linearLayout3, linearLayout4, ninebtn, onebtn,
+          sevenbtn, sixbtn, thirdbtn, twobtn, zerobtn);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

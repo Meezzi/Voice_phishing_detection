@@ -1,25 +1,28 @@
-#Wed Aug 17 19:32:15 KST 2022
+#Wed Oct 26 23:28:22 KST 2022
 path.4=3/classes.dex
 path.3=14/classes.dex
 path.2=10/classes.dex
 path.1=0/classes.dex
+renamed.8=classes9.dex
+path.8=classes2.dex
 path.7=8/classes.dex
 path.6=7/classes.dex
 path.5=6/classes.dex
 path.0=classes.dex
-base.4=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
-base.3=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.2=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.1=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.3=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.1=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 renamed.7=classes8.dex
+base.8=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 renamed.6=classes7.dex
-base.7=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.7=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
 renamed.5=classes6.dex
-base.6=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.6=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 renamed.4=classes5.dex
-base.5=C\:\\Users\\alswl\\AndroidStudioProjects\\YourVoice\\YourVoice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.5=C\:\\Users\\alswl\\AndroidStudioProjects\\alswl_alswl\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex

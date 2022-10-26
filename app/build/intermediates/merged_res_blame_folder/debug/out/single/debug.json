@@ -1,182 +1,250 @@
 [
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-anydpi-v26_ic_logo.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-anydpi-v26/ic_logo.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_two.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\two.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/navigation_mobile_navigation.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/navigation/mobile_navigation.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xxxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxxhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-mdpi_ic_logo.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-mdpi/ic_logo.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_two.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\two.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xxhdpi_ic_logo_round.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xxhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-hdpi_ic_logo.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-hdpi/ic_logo.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_list.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_list.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-anydpi-v26/ic_logo_round.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xxxhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxxhdpi\\ic_logo_foreground.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xxxhdpi_ic_logo_foreground.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xxxhdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_call.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_call.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_back.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\back.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_missed.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_missed.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-anydpi-v26\\ic_logo.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_splash_screen.jpg.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/splash_screen.jpg"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-mdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-mdpi\\ic_logo_foreground.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_notifications_black_24dp.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xxhdpi_ic_logo.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xxhdpi/ic_logo.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_outgoing.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_outgoing.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-anydpi-v26\\ic_logo_round.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_logo_background.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_logo_background.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_user.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_user.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/xml_backup_rules.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_fragment_list.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\fragment_list.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_activity_main.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/activity_main.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xxxhdpi_ic_logo_round.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xxxhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-mdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-mdpi\\ic_logo_round.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_activity_join.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/activity_join.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxhdpi\\ic_logo.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/menu_bottom_nav_menu.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/menu/bottom_nav_menu.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_outgoing.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_outgoing.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_activity_splash_screen.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_call.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_call.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xhdpi_ic_logo.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xhdpi/ic_logo.png"
-    },
-    {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-mdpi_ic_logo_foreground.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-mdpi/ic_logo_foreground.png"
-    },
-    {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_fragment_mypage.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/fragment_mypage.xml"
-    },
-    {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_fragment_record.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/fragment_record.xml"
-    },
-    {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xxxhdpi_ic_logo.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xxxhdpi/ic_logo.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_leftarrow.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\leftarrow.png"
     },
     {
         "merged": "com.example.YourVoice.app-merged_res-5:/layout_fragment_calllog.xml.flat",
         "source": "com.example.YourVoice.app-main-7:/layout/fragment_calllog.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_user.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_user.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_list.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_list.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-hdpi_ic_logo_foreground.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-hdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-hdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-hdpi\\ic_logo_round.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_seven.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\seven.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-mdpi_ic_logo_round.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-mdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_fragment_calllog.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\fragment_calllog.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_profile_picture.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/profile_picture.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_activity_login.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/activity_login.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-hdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-hdpi\\ic_logo.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-hdpi_ic_logo_round.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-hdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_profile_picture.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\profile_picture.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_main.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_main.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\logo.jpg"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xhdpi_ic_logo_foreground.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xhdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_zero.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\zero.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xxhdpi_ic_logo_foreground.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xxhdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_three.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\three.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_one.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\one.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.YourVoice.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_join.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_join.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_mic.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_mic.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xhdpi\\ic_logo_foreground.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/mipmap-xhdpi_ic_logo_round.png.flat",
-        "source": "com.example.YourVoice.app-main-7:/mipmap-xhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_fragment_record.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\fragment_record.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_logo.jpg.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/logo.jpg"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_fragment_list.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/fragment_list.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xxxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxxhdpi\\ic_logo.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/drawable_ic_home_black_24dp.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/drawable/ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_six.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-mdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_missed.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_missed.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_nine.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\nine.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_logo_background.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_main.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_main.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_callbtn.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\callbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xxhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxhdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-hdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-hdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_splash_screen.jpg.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\splash_screen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_google_sttactivity.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_google_sttactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_eight.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_mic.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_five.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_four.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_three.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_fragment_mypage.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\fragment_mypage.xml"
     }
 ]

@@ -23,8 +23,7 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        join_id = findViewById(R.id.join_id);
-        join_password = findViewById( R.id.join_password );
+        join_id = findViewById(R.id.join_email);
         join_button=findViewById(R.id.join_button);
         login_button=findViewById(R.id.login_button);
         btn_change = findViewById(R.id.join_button);
@@ -68,13 +67,15 @@ public class LoginActivity extends AppCompatActivity {
         });
 
         // 회원가입 버튼 클릭
-        join_button.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(intent);
-            }
+        join_button.setOnClickListener(view -> {
+            Intent intent = new Intent(getApplicationContext(), RegisterActivity.class);
+            startActivity(intent);
+        });
 
+
+        login_button.setOnClickListener(view -> {
+            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+            startActivity(intent);
         });
     }
 }

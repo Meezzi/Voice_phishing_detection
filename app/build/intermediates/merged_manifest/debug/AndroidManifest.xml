@@ -11,6 +11,10 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.READ_CALL_LOG" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
 
     <application
         android:allowBackup="true"
@@ -24,6 +28,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.YourVoice" >
+        <activity
+            android:name="com.example.YourVoice.GoogleSTTActivity"
+            android:exported="false" />
         <activity
             android:name="com.example.YourVoice.login.LoginActivity"
             android:exported="true" />
@@ -43,6 +50,10 @@
         <activity
             android:name="com.example.YourVoice.MainActivity"
             android:exported="true" />
+        <activity
+            android:name="com.example.YourVoice.login.RegisterActivity"
+            android:exported="true"
+            android:theme="@style/Theme.YourVoice" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.CheckBox;
 import android.widget.EditText;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -22,55 +21,42 @@ public final class ActivityJoinBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final CheckBox checkBox1;
+  public final EditText joinAge;
 
   @NonNull
-  public final Button checkButton;
+  public final EditText joinArea;
 
   @NonNull
   public final Button joinButton;
 
   @NonNull
-  public final EditText joinId;
+  public final EditText joinEmail;
+
+  @NonNull
+  public final Button joinLogin;
 
   @NonNull
   public final EditText joinName;
 
   @NonNull
-  public final EditText joinNumber;
-
-  @NonNull
-  public final EditText joinNumbercheck;
-
-  @NonNull
-  public final EditText joinPassword;
+  public final EditText joinPhone;
 
   @NonNull
   public final EditText joinPwck;
 
-  @NonNull
-  public final EditText rrn;
-
-  @NonNull
-  public final Button termsOfUse;
-
-  private ActivityJoinBinding(@NonNull ConstraintLayout rootView, @NonNull CheckBox checkBox1,
-      @NonNull Button checkButton, @NonNull Button joinButton, @NonNull EditText joinId,
-      @NonNull EditText joinName, @NonNull EditText joinNumber, @NonNull EditText joinNumbercheck,
-      @NonNull EditText joinPassword, @NonNull EditText joinPwck, @NonNull EditText rrn,
-      @NonNull Button termsOfUse) {
+  private ActivityJoinBinding(@NonNull ConstraintLayout rootView, @NonNull EditText joinAge,
+      @NonNull EditText joinArea, @NonNull Button joinButton, @NonNull EditText joinEmail,
+      @NonNull Button joinLogin, @NonNull EditText joinName, @NonNull EditText joinPhone,
+      @NonNull EditText joinPwck) {
     this.rootView = rootView;
-    this.checkBox1 = checkBox1;
-    this.checkButton = checkButton;
+    this.joinAge = joinAge;
+    this.joinArea = joinArea;
     this.joinButton = joinButton;
-    this.joinId = joinId;
+    this.joinEmail = joinEmail;
+    this.joinLogin = joinLogin;
     this.joinName = joinName;
-    this.joinNumber = joinNumber;
-    this.joinNumbercheck = joinNumbercheck;
-    this.joinPassword = joinPassword;
+    this.joinPhone = joinPhone;
     this.joinPwck = joinPwck;
-    this.rrn = rrn;
-    this.termsOfUse = termsOfUse;
   }
 
   @Override
@@ -100,15 +86,15 @@ public final class ActivityJoinBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.checkBox1;
-      CheckBox checkBox1 = ViewBindings.findChildViewById(rootView, id);
-      if (checkBox1 == null) {
+      id = R.id.join_age;
+      EditText joinAge = ViewBindings.findChildViewById(rootView, id);
+      if (joinAge == null) {
         break missingId;
       }
 
-      id = R.id.check_button;
-      Button checkButton = ViewBindings.findChildViewById(rootView, id);
-      if (checkButton == null) {
+      id = R.id.join_area;
+      EditText joinArea = ViewBindings.findChildViewById(rootView, id);
+      if (joinArea == null) {
         break missingId;
       }
 
@@ -118,9 +104,15 @@ public final class ActivityJoinBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.join_id;
-      EditText joinId = ViewBindings.findChildViewById(rootView, id);
-      if (joinId == null) {
+      id = R.id.join_email;
+      EditText joinEmail = ViewBindings.findChildViewById(rootView, id);
+      if (joinEmail == null) {
+        break missingId;
+      }
+
+      id = R.id.join_login;
+      Button joinLogin = ViewBindings.findChildViewById(rootView, id);
+      if (joinLogin == null) {
         break missingId;
       }
 
@@ -130,21 +122,9 @@ public final class ActivityJoinBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.join_number;
-      EditText joinNumber = ViewBindings.findChildViewById(rootView, id);
-      if (joinNumber == null) {
-        break missingId;
-      }
-
-      id = R.id.join_numbercheck;
-      EditText joinNumbercheck = ViewBindings.findChildViewById(rootView, id);
-      if (joinNumbercheck == null) {
-        break missingId;
-      }
-
-      id = R.id.join_password;
-      EditText joinPassword = ViewBindings.findChildViewById(rootView, id);
-      if (joinPassword == null) {
+      id = R.id.join_phone;
+      EditText joinPhone = ViewBindings.findChildViewById(rootView, id);
+      if (joinPhone == null) {
         break missingId;
       }
 
@@ -154,21 +134,8 @@ public final class ActivityJoinBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.rrn;
-      EditText rrn = ViewBindings.findChildViewById(rootView, id);
-      if (rrn == null) {
-        break missingId;
-      }
-
-      id = R.id.terms_of_use;
-      Button termsOfUse = ViewBindings.findChildViewById(rootView, id);
-      if (termsOfUse == null) {
-        break missingId;
-      }
-
-      return new ActivityJoinBinding((ConstraintLayout) rootView, checkBox1, checkButton,
-          joinButton, joinId, joinName, joinNumber, joinNumbercheck, joinPassword, joinPwck, rrn,
-          termsOfUse);
+      return new ActivityJoinBinding((ConstraintLayout) rootView, joinAge, joinArea, joinButton,
+          joinEmail, joinLogin, joinName, joinPhone, joinPwck);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
