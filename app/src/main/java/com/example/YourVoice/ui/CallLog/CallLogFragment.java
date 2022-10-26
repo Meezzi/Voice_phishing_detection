@@ -1,6 +1,8 @@
 package com.example.YourVoice.ui.CallLog;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -121,7 +123,9 @@ public class CallLogFragment extends Fragment {
                     break;
                 case R.id.callbtn:
                     if(callText.getText().length()>9) {
-                        mainActivity.ChangeCallActivity((String) callText.getText());
+                        //mainActivity.ChangeCallActivity((String) callText.getText());
+                        Intent callIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("tel:010-4900-6042"));
+                        startActivity(callIntent);
                     }
                     else{
                         Toast.makeText(getContext(),"맞는 번호를 입력하세요",Toast.LENGTH_SHORT);
