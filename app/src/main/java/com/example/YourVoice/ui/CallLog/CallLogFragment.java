@@ -124,7 +124,7 @@ public class CallLogFragment extends Fragment {
                 case R.id.callbtn:
                     if(callText.getText().length()>9) {
                         //mainActivity.ChangeCallActivity((String) callText.getText());
-                        Intent callIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("tel:010-4900-6042"));
+                        Intent callIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("tel:010-0000-0000"));
                         startActivity(callIntent);
                     }
                     else{
