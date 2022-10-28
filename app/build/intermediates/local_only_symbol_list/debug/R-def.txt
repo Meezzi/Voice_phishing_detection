@@ -14,6 +14,7 @@ drawable back
 drawable eight
 drawable five
 drawable four
+drawable ic_baseline_clear_24
 drawable ic_call
 drawable ic_dashboard_black_24dp
 drawable ic_home_black_24dp
@@ -38,6 +39,7 @@ drawable three
 drawable two
 drawable zero
 id backbtn
+id btn_close
 id callEditText
 id callbtn
 id container
@@ -78,6 +80,7 @@ id text_list
 id text_myPage
 id text_record
 id thirdbtn
+id tv_call_number
 id twobtn
 id zerobtn
 layout activity_google_sttactivity
@@ -85,6 +88,7 @@ layout activity_join
 layout activity_login
 layout activity_main
 layout activity_splash_screen
+layout call
 layout fragment_calllog
 layout fragment_list
 layout fragment_mypage

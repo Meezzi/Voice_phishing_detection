@@ -5,9 +5,9 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="21"
+8        android:minSdkVersion="30"
 8-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="32" />
+9        android:targetSdkVersion="25" />
 9-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
@@ -31,115 +31,142 @@
 17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
 17-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:14:5-71
 17-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:14:22-68
-18
-19    <application
-19-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:16:5-52:19
-20        android:allowBackup="true"
-20-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:17:9-35
-21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:18:9-65
-23        android:debuggable="true"
-24        android:fullBackupContent="@xml/backup_rules"
-24-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:19:9-54
-25        android:icon="@mipmap/ic_logo"
-25-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:20:9-39
-26        android:label="@string/app_name"
-26-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:21:9-41
-27        android:roundIcon="@mipmap/ic_logo_round"
-27-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:22:9-50
-28        android:supportsRtl="true"
-28-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:23:9-35
-29        android:testOnly="true"
-30        android:theme="@style/Theme.YourVoice" >
-30-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:24:9-47
-31        <activity
-31-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:26:9-28:40
-32            android:name="com.example.YourVoice.GoogleSTTActivity"
-32-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:27:13-46
-33            android:exported="false" />
-33-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:28:13-37
-34        <activity
-34-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:29:9-31:39
-35            android:name="com.example.YourVoice.login.LoginActivity"
-35-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:30:13-48
-36            android:exported="true" />
-36-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:31:13-36
-37        <activity
-37-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:32:9-34:39
-38            android:name="com.example.YourVoice.login.JoinActivity"
-38-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:33:13-47
-39            android:exported="true" />
-39-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:34:13-36
-40        <activity
-40-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:35:9-44:20
-41            android:name="com.example.YourVoice.SplashScreen"
-41-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:36:13-41
-42            android:exported="true"
-42-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:37:13-36
-43            android:theme="@style/SplashTheme" >
-43-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:38:13-47
-44            <intent-filter>
-44-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:39:13-43:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:40:17-69
-45-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:40:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:42:17-77
-47-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:42:27-74
-48            </intent-filter>
-49        </activity>
-50        <activity
-50-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:45:9-47:39
-51            android:name="com.example.YourVoice.MainActivity"
-51-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:46:13-41
-52            android:exported="true" />
-52-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:47:13-36
-53        <activity
-53-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:48:9-51:54
-54            android:name="com.example.YourVoice.login.RegisterActivity"
-54-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:49:13-51
-55            android:exported="true"
-55-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:50:13-36
-56            android:theme="@style/Theme.YourVoice" />
-56-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:51:13-51
-57
-58        <provider
-58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-59            android:name="androidx.startup.InitializationProvider"
-59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-60            android:authorities="com.example.YourVoice.androidx-startup"
-60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-61            android:exported="false" >
-61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-62            <meta-data
-62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-64                android:value="androidx.startup" />
-64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-65            <meta-data
-65-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-66-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-67                android:value="androidx.startup" />
-67-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-68        </provider>
-69
-70        <uses-library
-70-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-71            android:name="androidx.window.extensions"
-71-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-72            android:required="false" />
-72-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-73        <uses-library
-73-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-74            android:name="androidx.window.sidecar"
-74-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-75            android:required="false" />
-75-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-76    </application>
-77
-78</manifest>
+18    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+18-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:15:5-16:40
+18-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:15:22-79
+19    <uses-permission android:name="android.permission.ADD_VOICEMAIL" />
+19-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:17:5-71
+19-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:17:22-69
+20
+21    <application
+21-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:20:5-64:19
+22        android:allowBackup="true"
+22-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:22:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.8.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:23:9-65
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:fullBackupContent="@xml/backup_rules"
+27-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:24:9-54
+28        android:icon="@mipmap/ic_logo"
+28-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:25:9-39
+29        android:label="@string/app_name"
+29-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:26:9-41
+30        android:requestLegacyExternalStorage="true"
+30-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:21:9-52
+31        android:roundIcon="@mipmap/ic_logo_round"
+31-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:27:9-50
+32        android:supportsRtl="true"
+32-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:28:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.YourVoice" >
+34-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:29:9-47
+35        <receiver
+35-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:31:9-35:40
+36            android:name="com.example.YourVoice.IncomingCallBroadcastReceiver"
+36-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:31:19-64
+37            android:exported="true" >
+37-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:32:13-36
+38            <intent-filter>
+38-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:33:13-35:29
+39                <action android:name="android.intent.action.PHONE_STATE" />
+39-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:34:17-75
+39-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:34:25-73
+40            </intent-filter>
+41        </receiver>
+42
+43        <service android:name="com.example.YourVoice.CallingService" />
+43-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:36:9-50
+43-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:36:18-48
+44
+45        <activity
+45-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:38:9-40:40
+46            android:name="com.example.YourVoice.GoogleSTTActivity"
+46-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:39:13-46
+47            android:exported="false" />
+47-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:40:13-37
+48        <activity
+48-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:41:9-43:39
+49            android:name="com.example.YourVoice.login.LoginActivity"
+49-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:42:13-48
+50            android:exported="true" />
+50-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:43:13-36
+51        <activity
+51-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:44:9-46:39
+52            android:name="com.example.YourVoice.login.JoinActivity"
+52-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:45:13-47
+53            android:exported="true" />
+53-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:46:13-36
+54        <activity
+54-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:47:9-56:20
+55            android:name="com.example.YourVoice.SplashScreen"
+55-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:48:13-41
+56            android:exported="true"
+56-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:49:13-36
+57            android:theme="@style/SplashTheme" >
+57-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:50:13-47
+58            <intent-filter>
+58-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:51:13-55:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:52:17-69
+59-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:52:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:54:17-77
+61-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:54:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:57:9-59:39
+65            android:name="com.example.YourVoice.MainActivity"
+65-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:58:13-41
+66            android:exported="true" />
+66-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:59:13-36
+67        <activity
+67-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:60:9-63:54
+68            android:name="com.example.YourVoice.login.RegisterActivity"
+68-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:61:13-51
+69            android:exported="true"
+69-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:62:13-36
+70            android:theme="@style/Theme.YourVoice" />
+70-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:63:13-51
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\112a099502228b2b317b1c79d5f085b0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\112a099502228b2b317b1c79d5f085b0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+74            android:authorities="com.example.YourVoice.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\112a099502228b2b317b1c79d5f085b0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\112a099502228b2b317b1c79d5f085b0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\112a099502228b2b317b1c79d5f085b0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\112a099502228b2b317b1c79d5f085b0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\112a099502228b2b317b1c79d5f085b0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\7cfe2704946b18bb678666b3953b74c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\7cfe2704946b18bb678666b3953b74c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\7cfe2704946b18bb678666b3953b74c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+82        </provider>
+83
+84        <uses-library
+84-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+85            android:name="androidx.window.extensions"
+85-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+86            android:required="false" />
+86-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+87        <uses-library
+87-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+88            android:name="androidx.window.sidecar"
+88-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+89            android:required="false" />
+89-->[androidx.window:window:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+90    </application>
+91
+92</manifest>
