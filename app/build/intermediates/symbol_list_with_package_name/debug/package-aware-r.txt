@@ -2974,10 +2974,8 @@ id listMode
 id list_item
 id locale
 id login_button
-id login_id
-id login_id_check
+id login_email
 id login_password
-id login_pw_check
 id ltr
 id marquee
 id masked
@@ -3193,7 +3191,6 @@ id text_input_error_icon
 id text_input_start_icon
 id text_list
 id text_myPage
-id text_record
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -3449,6 +3446,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout stt_result
 layout support_simple_spinner_dropdown_item
 menu bottom_nav_menu
 mipmap ic_logo

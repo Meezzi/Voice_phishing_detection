@@ -61,6 +61,8 @@
             android:name=".login.RegisterActivity"
             android:exported="true"
             android:theme="@style/Theme.YourVoice" />
+
+
     </application>
 
 

@@ -20,11 +20,11 @@ public final class FragmentRecordBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textRecord;
+  public final TextView sttResult;
 
-  private FragmentRecordBinding(@NonNull ConstraintLayout rootView, @NonNull TextView textRecord) {
+  private FragmentRecordBinding(@NonNull ConstraintLayout rootView, @NonNull TextView sttResult) {
     this.rootView = rootView;
-    this.textRecord = textRecord;
+    this.sttResult = sttResult;
   }
 
   @Override
@@ -54,13 +54,13 @@ public final class FragmentRecordBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_record;
-      TextView textRecord = ViewBindings.findChildViewById(rootView, id);
-      if (textRecord == null) {
+      id = R.id.sttResult;
+      TextView sttResult = ViewBindings.findChildViewById(rootView, id);
+      if (sttResult == null) {
         break missingId;
       }
 
-      return new FragmentRecordBinding((ConstraintLayout) rootView, textRecord);
+      return new FragmentRecordBinding((ConstraintLayout) rootView, sttResult);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

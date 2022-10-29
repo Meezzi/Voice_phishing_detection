@@ -21,6 +21,8 @@ import android.speech.RecognizerIntent;
 import android.speech.SpeechRecognizer;
 import android.widget.Toast;
 
+import com.example.YourVoice.ui.Record.RecordFragment;
+
 import com.opencsv.CSVWriter;
 
 import java.io.FileWriter;
@@ -39,8 +41,8 @@ public class CallingService extends Service {
 
     Intent intent;
     SpeechRecognizer mRecognizer;
-    Button sttBtn;
     TextView textView;
+    TextView stt_result;
     final int PERMISSION = 1;
 
 
@@ -96,6 +98,7 @@ public class CallingService extends Service {
 
         btn_close.setOnClickListener(v -> {
             stopService(intent);
+            startService(intent);
         });
 
 
@@ -159,6 +162,8 @@ public class CallingService extends Service {
             Toast.makeText(getApplicationContext(), "에러가 발생하였습니다. : " + message,Toast.LENGTH_SHORT).show();
         }
 
+
+
         @Override
         public void onResults(Bundle results) {
             // 말을 하면 ArrayList에 단어를 넣고 textView에 단어를 이어줍니다.
@@ -167,32 +172,9 @@ public class CallingService extends Service {
 
             for(int i = 0; i < matches.size() ; i++){
                 textView.setText(matches.get(i));
-                try {
-                    writeDataToCsv("/Alarms/test.csv", matches);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
+
             }
         }
-
-        public void writeDataToCsv(String filePath, ArrayList<String> text) throws IOException {
-            CSVWriter writer = new CSVWriter(new FileWriter(filePath));
-
-            for(int i = 0; i < text.size() ; i++){
-                textView.setText(text.get(i));
-                try {
-                    writeDataToCsv("/Alarms/test.csv", text);
-                    String[] entries = text.toArray(new String[0]);  // 1
-                    writer.writeNext(entries);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-
-
-            writer.close();
-        }
-
 
 
         @Override

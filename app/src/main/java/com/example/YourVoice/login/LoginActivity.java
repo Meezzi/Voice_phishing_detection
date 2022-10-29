@@ -17,53 +17,55 @@ import com.android.volley.toolbox.Volley;
 import org.json.JSONObject;
 
 public class LoginActivity extends AppCompatActivity {
-    private EditText join_id, join_password;
-    private Button login_button, join_button,btn_change;
+    private EditText login_email, login_password;
+    private Button login_button, join_button;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        join_id = findViewById(R.id.join_email);
+
+        login_email = findViewById(R.id.login_email);
+        login_password = findViewById(R.id.login_password);
+
+
         join_button=findViewById(R.id.join_button);
         login_button=findViewById(R.id.login_button);
-        btn_change = findViewById(R.id.join_button);
-        btn_change.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                String userID = join_id.getText().toString();
-                String userPassword = join_password.getText().toString();
-                Response.Listener<String> responseListener = new Response.Listener<String>() {
-                    @Override
-                    public void onResponse(String response) {
-                        try{
-                            JSONObject jsonResponse = new JSONObject(response);
-                            boolean success = jsonResponse.getBoolean("success");
-                            if(success){
-                                Toast.makeText(getApplicationContext(), "로그인에 성공했습니다.", Toast.LENGTH_SHORT).show();
 
-                                String userID = jsonResponse.getString("userID");
-                                String userPassword = jsonResponse.getString("userPassword");
-                                Intent intent = new Intent(getApplicationContext(), JoinActivity.class);
-                                // 로그인 하면서 사용자 정보 넘기기
-                                intent.putExtra("userID", userID);
-                                intent.putExtra("userPassword", userPassword);
-                                startActivity(intent);
+        login_button.setOnClickListener(view -> {
+            String user_email = login_email.getText().toString();
+            String user_pw = login_password.getText().toString();
+            Response.Listener<String> responseListener = response -> {
+                try{
+                    Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. (1)", Toast.LENGTH_SHORT).show();
+                    JSONObject jsonResponse = new JSONObject();
+                    Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. (2)", Toast.LENGTH_SHORT).show();
+                    boolean success = jsonResponse.getBoolean("success");
+                    Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. (3)", Toast.LENGTH_SHORT).show();
+                    if(success){
+                        Toast.makeText(getApplicationContext(), "로그인에 성공했습니다.", Toast.LENGTH_SHORT).show();
 
-                            } else {
-                                Toast.makeText(getApplicationContext(), "로그인에 실패했습니다.", Toast.LENGTH_SHORT).show();
-                                return;
-                            }
-                        } catch(Exception e){
-                            e.printStackTrace();
-                        }
+                        String email = jsonResponse.getString("email");
+                        String password = jsonResponse.getString("password");
+                        Intent intent = new Intent(getApplicationContext(), JoinActivity.class);
+                        // 로그인 하면서 사용자 정보 넘기기
+                        intent.putExtra("user_email", user_email);
+                        intent.putExtra("user_pw", user_pw);
+                        startActivity(intent);
+
+                    } else {
+                        Toast.makeText(getApplicationContext(), "로그인에 실패했습니다.", Toast.LENGTH_SHORT).show();
+                        return;
                     }
-                };
+                } catch(Exception e){
+                    e.printStackTrace();
+                    Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. 예외처리", Toast.LENGTH_SHORT).show();
+                }
+            };
 
-                LoginRequest loginRequest = new LoginRequest(userID, userPassword, responseListener);
-                RequestQueue queue = Volley.newRequestQueue(LoginActivity.this);
-                queue.add(loginRequest);
+            LoginRequest loginRequest = new LoginRequest(user_email, user_pw, responseListener);
+            RequestQueue queue = Volley.newRequestQueue(LoginActivity.this);
+            queue.add(loginRequest);
 
-            }
         });
 
         // 회원가입 버튼 클릭
@@ -73,10 +75,10 @@ public class LoginActivity extends AppCompatActivity {
         });
 
 
-        login_button.setOnClickListener(view -> {
-            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-            startActivity(intent);
-        });
+//        login_button.setOnClickListener(view -> {
+//            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+//            startActivity(intent);
+//        });
     }
 }
 

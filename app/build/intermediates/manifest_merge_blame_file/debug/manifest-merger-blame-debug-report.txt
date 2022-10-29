@@ -39,7 +39,7 @@
 19-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:17:22-69
 20
 21    <application
-21-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:20:5-64:19
+21-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:20:5-66:19
 22        android:allowBackup="true"
 22-->C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:22:9-35
 23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"

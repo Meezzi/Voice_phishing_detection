@@ -28,30 +28,22 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final Button loginButton;
 
   @NonNull
-  public final EditText loginId;
-
-  @NonNull
-  public final Button loginIdCheck;
+  public final EditText loginEmail;
 
   @NonNull
   public final EditText loginPassword;
 
   @NonNull
-  public final Button loginPwCheck;
-
-  @NonNull
   public final TextView textView;
 
   private ActivityLoginBinding(@NonNull ConstraintLayout rootView, @NonNull Button joinButton,
-      @NonNull Button loginButton, @NonNull EditText loginId, @NonNull Button loginIdCheck,
-      @NonNull EditText loginPassword, @NonNull Button loginPwCheck, @NonNull TextView textView) {
+      @NonNull Button loginButton, @NonNull EditText loginEmail, @NonNull EditText loginPassword,
+      @NonNull TextView textView) {
     this.rootView = rootView;
     this.joinButton = joinButton;
     this.loginButton = loginButton;
-    this.loginId = loginId;
-    this.loginIdCheck = loginIdCheck;
+    this.loginEmail = loginEmail;
     this.loginPassword = loginPassword;
-    this.loginPwCheck = loginPwCheck;
     this.textView = textView;
   }
 
@@ -94,15 +86,9 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.login_id;
-      EditText loginId = ViewBindings.findChildViewById(rootView, id);
-      if (loginId == null) {
-        break missingId;
-      }
-
-      id = R.id.login_id_check;
-      Button loginIdCheck = ViewBindings.findChildViewById(rootView, id);
-      if (loginIdCheck == null) {
+      id = R.id.login_email;
+      EditText loginEmail = ViewBindings.findChildViewById(rootView, id);
+      if (loginEmail == null) {
         break missingId;
       }
 
@@ -112,20 +98,14 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.login_pw_check;
-      Button loginPwCheck = ViewBindings.findChildViewById(rootView, id);
-      if (loginPwCheck == null) {
-        break missingId;
-      }
-
       id = R.id.textView;
       TextView textView = ViewBindings.findChildViewById(rootView, id);
       if (textView == null) {
         break missingId;
       }
 
-      return new ActivityLoginBinding((ConstraintLayout) rootView, joinButton, loginButton, loginId,
-          loginIdCheck, loginPassword, loginPwCheck, textView);
+      return new ActivityLoginBinding((ConstraintLayout) rootView, joinButton, loginButton,
+          loginEmail, loginPassword, textView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

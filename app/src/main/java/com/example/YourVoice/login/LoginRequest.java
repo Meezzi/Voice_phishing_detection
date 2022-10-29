@@ -8,19 +8,20 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LoginRequest extends StringRequest {
-    final static private String URL = "http://localhost/phpmyadmin/index.php?route=/table/structure&db=app&table=test"; // "http:// 퍼블릭 DSN 주소/Login.php";
+    final static private String URL = "http://192.168.0.5/login.php"; // "http:// 퍼블릭 DSN 주소/Login.php";
     private Map<String, String> parameters;
 
-    public LoginRequest(String userID, String userPassword, Response.Listener<String> listener) {
+    public LoginRequest(String user_email, String user_pw, Response.Listener<String> listener) {
         super(Method.POST, URL, listener, null);
 
         parameters = new HashMap<>();
-        parameters.put("userID", userID);
-        parameters.put("userPassword", userPassword);
+        parameters.put("user_email", user_email);
+        parameters.put("user_pw", user_pw);
+
     }
 
-    @Override
-    protected Map<String, String> getParams() throws AuthFailureError {
-        return parameters;
-    }
+//    @Override
+//    protected Map<String, String> getParams() throws AuthFailureError {
+//        return parameters;
+//    }
 }

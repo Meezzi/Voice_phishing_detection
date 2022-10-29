@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
@@ -61,22 +61,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alswl\Downloads\
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
 	package
 		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
 		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-68:12
+		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-70:12
 		INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:11-69
@@ -121,7 +121,7 @@ ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\Android
 	android:name
 		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:17:22-69
 application
-ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:20:5-64:19
+ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:20:5-66:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\94723a85da34df2a1a22cc73adb8ecfe\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\94723a85da34df2a1a22cc73adb8ecfe\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20

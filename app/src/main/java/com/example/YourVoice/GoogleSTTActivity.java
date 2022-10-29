@@ -88,13 +88,13 @@ public class GoogleSTTActivity extends AppCompatActivity {
                     message = "클라이언트 에러";
                     break;
                 case SpeechRecognizer.ERROR_INSUFFICIENT_PERMISSIONS:
-                    message = "퍼미션 없음";
+                    message = "권한 부족";
                     break;
                 case SpeechRecognizer.ERROR_NETWORK:
                     message = "네트워크 에러";
                     break;
                 case SpeechRecognizer.ERROR_NETWORK_TIMEOUT:
-                    message = "네트웍 타임아웃";
+                    message = "네트워크 타임아웃";
                     break;
                 case SpeechRecognizer.ERROR_NO_MATCH:
                     message = "찾을 수 없음";
