@@ -2815,6 +2815,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btn_close
+id btn_stt
 id buttonPanel
 id cache_measures
 id callEditText

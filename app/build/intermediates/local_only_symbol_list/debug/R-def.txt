@@ -40,6 +40,7 @@ drawable two
 drawable zero
 id backbtn
 id btn_close
+id btn_stt
 id callEditText
 id callbtn
 id container

@@ -17,13 +17,19 @@
         android:textColor="#fff"
         android:textSize="20sp" />
 
+    <Button
+        android:id="@+id/btn_stt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="STT 시작" />
+
     <ImageButton
         android:id="@+id/btn_close"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@android:color/transparent"
         android:src="@drawable/ic_baseline_clear_24" />
-
 
 
 </LinearLayout>

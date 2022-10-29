@@ -4,6 +4,7 @@ package com.example.YourVoice.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -24,12 +25,16 @@ public final class CallBinding implements ViewBinding {
   public final ImageButton btnClose;
 
   @NonNull
+  public final Button btnStt;
+
+  @NonNull
   public final TextView tvCallNumber;
 
   private CallBinding(@NonNull LinearLayout rootView, @NonNull ImageButton btnClose,
-      @NonNull TextView tvCallNumber) {
+      @NonNull Button btnStt, @NonNull TextView tvCallNumber) {
     this.rootView = rootView;
     this.btnClose = btnClose;
+    this.btnStt = btnStt;
     this.tvCallNumber = tvCallNumber;
   }
 
@@ -66,13 +71,19 @@ public final class CallBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.btn_stt;
+      Button btnStt = ViewBindings.findChildViewById(rootView, id);
+      if (btnStt == null) {
+        break missingId;
+      }
+
       id = R.id.tv_call_number;
       TextView tvCallNumber = ViewBindings.findChildViewById(rootView, id);
       if (tvCallNumber == null) {
         break missingId;
       }
 
-      return new CallBinding((LinearLayout) rootView, btnClose, tvCallNumber);
+      return new CallBinding((LinearLayout) rootView, btnClose, btnStt, tvCallNumber);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

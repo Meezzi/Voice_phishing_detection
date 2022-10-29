@@ -2814,6 +2814,7 @@ int id bounceBoth 0x7f080061
 int id bounceEnd 0x7f080062
 int id bounceStart 0x7f080063
 int id btn_close 0x7f080064
+int id btn_stt 0x7f080210
 int id buttonPanel 0x7f080065
 int id cache_measures 0x7f080066
 int id callEditText 0x7f080067
