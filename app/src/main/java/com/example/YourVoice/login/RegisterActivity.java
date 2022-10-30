@@ -1,6 +1,7 @@
 package com.example.YourVoice.login;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
@@ -31,7 +32,6 @@ public class RegisterActivity extends AppCompatActivity {
     private EditText join_email, join_pwck, join_name, join_area, join_age, join_phone;
     private TextView mTextViewResult;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,6 +49,12 @@ public class RegisterActivity extends AppCompatActivity {
 
         mTextViewResult.setMovementMethod(new ScrollingMovementMethod());
 
+        Button btn_login = (Button)findViewById(R.id.btn_login);
+        btn_login.setOnClickListener(view -> {
+            Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
+            startActivity(intent);
+        });
+
 
         Button btn_join = (Button)findViewById(R.id.btn_join);
         btn_join.setOnClickListener(new View.OnClickListener() {
@@ -64,7 +70,6 @@ public class RegisterActivity extends AppCompatActivity {
 
                 InsertData task = new InsertData();
                 task.execute("http://" + IP_ADDRESS + "/insert.php", email, pwck, name, area, age, phone);
-
 
                 join_email.setText("");
                 join_pwck.setText("");
