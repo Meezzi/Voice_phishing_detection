@@ -41,17 +41,13 @@ public class LoginActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String email = login_email.getText().toString();
                 String pwck = login_password.getText().toString();
-                Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. try 돌리기 전", Toast.LENGTH_SHORT).show();
 
                 Response.Listener<String> responseListener = new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
                         try {
-                            Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. (1)", Toast.LENGTH_SHORT).show();
                             JSONObject jsonResponse = new JSONObject(response);
-                            Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. (2)", Toast.LENGTH_SHORT).show();
                             boolean success = jsonResponse.getBoolean("success");
-                            Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. (3)", Toast.LENGTH_SHORT).show();
 
                             if (success) {
                                 Toast.makeText(getApplicationContext(), "로그인에 성공했습니다.", Toast.LENGTH_SHORT).show();
@@ -70,7 +66,6 @@ public class LoginActivity extends AppCompatActivity {
                             }
                         } catch (Exception e) {
                             e.printStackTrace();
-                            Toast.makeText(getApplicationContext(), "로그인에 실패했습니다. 예외처리", Toast.LENGTH_SHORT).show();
                         }
                     }
                 };
