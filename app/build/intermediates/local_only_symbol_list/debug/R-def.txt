@@ -40,6 +40,8 @@ drawable two
 drawable zero
 id backbtn
 id btn_close
+id btn_join
+id btn_login
 id btn_stt
 id callEditText
 id callbtn
@@ -51,7 +53,6 @@ id join_age
 id join_area
 id join_button
 id join_email
-id join_login
 id join_name
 id join_phone
 id join_pwck
@@ -75,6 +76,8 @@ id sixbtn
 id sttResult
 id sttStart
 id textView
+id textView2
+id textView_main_result
 id text_list
 id text_myPage
 id thirdbtn
@@ -82,9 +85,9 @@ id tv_call_number
 id twobtn
 id zerobtn
 layout activity_google_sttactivity
-layout activity_join
 layout activity_login
 layout activity_main
+layout activity_register
 layout activity_splash_screen
 layout call
 layout fragment_calllog

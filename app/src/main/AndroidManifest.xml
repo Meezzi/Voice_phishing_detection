@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.YourVoice">
 
+
+
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.READ_CALL_LOG" />
@@ -18,6 +20,7 @@
 
 
     <application
+        android:usesCleartextTraffic="true"
         android:requestLegacyExternalStorage="true"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -42,7 +45,7 @@
             android:name=".login.LoginActivity"
             android:exported="true" />
         <activity
-            android:name=".login.JoinActivity"
+            android:name=".login.RegisterActivity"
             android:exported="true" />
         <activity
             android:name=".SplashScreen"
@@ -57,10 +60,6 @@
         <activity
             android:name=".MainActivity"
             android:exported="true" />
-        <activity
-            android:name=".login.RegisterActivity"
-            android:exported="true"
-            android:theme="@style/Theme.YourVoice" />
 
 
     </application>

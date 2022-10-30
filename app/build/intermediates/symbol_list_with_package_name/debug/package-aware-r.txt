@@ -2815,6 +2815,8 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btn_close
+id btn_join
+id btn_login
 id btn_stt
 id buttonPanel
 id cache_measures
@@ -2953,7 +2955,6 @@ id join_age
 id join_area
 id join_button
 id join_email
-id join_login
 id join_name
 id join_phone
 id join_pwck
@@ -3186,6 +3187,8 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView2
+id textView_main_result
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3364,9 +3367,9 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_google_sttactivity
-layout activity_join
 layout activity_login
 layout activity_main
+layout activity_register
 layout activity_splash_screen
 layout call
 layout custom_dialog

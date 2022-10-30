@@ -24,6 +24,10 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxxhdpi\\ic_logo_foreground.png"
     },
     {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_splash_screen.xml.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_splash_screen.xml"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\navigation_mobile_navigation.xml.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.YourVoice.app-merged_res-5:/layout_activity_register.xml.flat",
+        "source": "com.example.YourVoice.app-main-7:/layout/activity_register.xml"
     },
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-mdpi_ic_logo_round.png.flat",
@@ -114,10 +122,6 @@
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_profile_picture.png.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\profile_picture.png"
-    },
-    {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_activity_login.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/activity_login.xml"
     },
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_zero.png.flat",

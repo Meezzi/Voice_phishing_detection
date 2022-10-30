@@ -31,7 +31,8 @@
         android:roundIcon="@mipmap/ic_logo_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.YourVoice" >
+        android:theme="@style/Theme.YourVoice"
+        android:usesCleartextTraffic="true" >
         <receiver
             android:name="com.example.YourVoice.IncomingCallBroadcastReceiver"
             android:exported="true" >
@@ -49,7 +50,7 @@
             android:name="com.example.YourVoice.login.LoginActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.YourVoice.login.JoinActivity"
+            android:name="com.example.YourVoice.login.RegisterActivity"
             android:exported="true" />
         <activity
             android:name="com.example.YourVoice.SplashScreen"
@@ -64,10 +65,6 @@
         <activity
             android:name="com.example.YourVoice.MainActivity"
             android:exported="true" />
-        <activity
-            android:name="com.example.YourVoice.login.RegisterActivity"
-            android:exported="true"
-            android:theme="@style/Theme.YourVoice" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
