@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-mergeDebugResources-4:\\layout\\activity_join.xml",
-        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_join.xml"
-    },
-    {
         "merged": "com.example.YourVoice.app-mergeDebugResources-4:/layout/activity_register.xml",
         "source": "com.example.YourVoice.app-main-7:/layout/activity_register.xml"
     },

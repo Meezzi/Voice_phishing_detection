@@ -28,6 +28,10 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_register.xml"
     },
     {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_keyboard_arrow_left_white_24dp.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_keyboard_arrow_left_white_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_splash_screen.xml.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_splash_screen.xml"
     },
@@ -104,6 +108,10 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\seven.png"
     },
     {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_lock_gray_24dp.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_lock_gray_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_fragment_calllog.xml.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\fragment_calllog.xml"
     },
@@ -134,10 +142,6 @@
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_one.png.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\one.png"
-    },
-    {
-        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_join.xml.flat",
-        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_join.xml"
     },
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xhdpi_ic_logo_foreground.png.flat",
@@ -184,6 +188,10 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_main.png"
     },
     {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\font_calibri.ttf.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\font\\calibri.ttf"
+    },
+    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-hdpi_ic_logo_foreground.png.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-hdpi\\ic_logo_foreground.png"
     },
@@ -220,16 +228,24 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\five.png"
     },
     {
-        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_three.png.flat",
-        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\three.png"
-    },
-    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_four.png.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\four.png"
     },
     {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_three.png.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_buttonshape.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\buttonshape.xml"
+    },
+    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_notifications_black_24dp.xml.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable_ic_person_gray_24dp.xml.flat",
+        "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable\\ic_person_gray_24dp.xml"
     },
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-xhdpi_ic_logo.png.flat",

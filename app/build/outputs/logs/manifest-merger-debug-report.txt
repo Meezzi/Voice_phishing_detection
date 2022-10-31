@@ -5,6 +5,7 @@ INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\Andr
 INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-69:12
 INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:2:1-69:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0acd5d68b25d2a0178777eb88d84f1a7\transformed\circleimageview-3.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\415ed60bf040971428b11e20fb525d70\transformed\navigation-ui-2.5.2\AndroidManifest.xml:17:1-24:12
@@ -122,6 +123,8 @@ ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\Android
 		ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:19:22-69
 application
 ADDED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml:22:5-65:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0acd5d68b25d2a0178777eb88d84f1a7\transformed\circleimageview-3.0.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0acd5d68b25d2a0178777eb88d84f1a7\transformed\circleimageview-3.0.0\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\94723a85da34df2a1a22cc73adb8ecfe\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\94723a85da34df2a1a22cc73adb8ecfe\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -226,6 +229,8 @@ INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\Andr
 INJECTED from C:\Users\alswl\AndroidStudioProjects\alswl_alswl\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\6509385ff8ec8e676099ca8dd74d3249\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0acd5d68b25d2a0178777eb88d84f1a7\transformed\circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\0acd5d68b25d2a0178777eb88d84f1a7\transformed\circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:5:5-44
 MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\ce6853637c95289664e58bced9cb3205\transformed\butterknife-10.2.3\AndroidManifest.xml:5:5-44
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\alswl\Downloads\rjeffm\CallRecorder\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43

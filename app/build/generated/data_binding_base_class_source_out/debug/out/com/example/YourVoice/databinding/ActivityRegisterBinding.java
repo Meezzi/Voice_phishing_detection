@@ -6,10 +6,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
+import android.widget.RelativeLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.appcompat.widget.Toolbar;
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.YourVoice.R;
@@ -19,19 +20,16 @@ import java.lang.String;
 
 public final class ActivityRegisterBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
-
-  @NonNull
-  public final Button btnJoin;
-
-  @NonNull
-  public final Button btnLogin;
+  private final CoordinatorLayout rootView;
 
   @NonNull
   public final EditText joinAge;
 
   @NonNull
   public final EditText joinArea;
+
+  @NonNull
+  public final Button joinButton;
 
   @NonNull
   public final EditText joinEmail;
@@ -46,32 +44,39 @@ public final class ActivityRegisterBinding implements ViewBinding {
   public final EditText joinPwck;
 
   @NonNull
-  public final TextView textView2;
+  public final Button loginButton;
 
   @NonNull
-  public final TextView textViewMainResult;
+  public final RelativeLayout relativeLayout;
 
-  private ActivityRegisterBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnJoin,
-      @NonNull Button btnLogin, @NonNull EditText joinAge, @NonNull EditText joinArea,
-      @NonNull EditText joinEmail, @NonNull EditText joinName, @NonNull EditText joinPhone,
-      @NonNull EditText joinPwck, @NonNull TextView textView2,
-      @NonNull TextView textViewMainResult) {
+  @NonNull
+  public final EditText textViewMainResult;
+
+  @NonNull
+  public final Toolbar toolbar;
+
+  private ActivityRegisterBinding(@NonNull CoordinatorLayout rootView, @NonNull EditText joinAge,
+      @NonNull EditText joinArea, @NonNull Button joinButton, @NonNull EditText joinEmail,
+      @NonNull EditText joinName, @NonNull EditText joinPhone, @NonNull EditText joinPwck,
+      @NonNull Button loginButton, @NonNull RelativeLayout relativeLayout,
+      @NonNull EditText textViewMainResult, @NonNull Toolbar toolbar) {
     this.rootView = rootView;
-    this.btnJoin = btnJoin;
-    this.btnLogin = btnLogin;
     this.joinAge = joinAge;
     this.joinArea = joinArea;
+    this.joinButton = joinButton;
     this.joinEmail = joinEmail;
     this.joinName = joinName;
     this.joinPhone = joinPhone;
     this.joinPwck = joinPwck;
-    this.textView2 = textView2;
+    this.loginButton = loginButton;
+    this.relativeLayout = relativeLayout;
     this.textViewMainResult = textViewMainResult;
+    this.toolbar = toolbar;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public CoordinatorLayout getRoot() {
     return rootView;
   }
 
@@ -96,18 +101,6 @@ public final class ActivityRegisterBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btn_join;
-      Button btnJoin = ViewBindings.findChildViewById(rootView, id);
-      if (btnJoin == null) {
-        break missingId;
-      }
-
-      id = R.id.btn_login;
-      Button btnLogin = ViewBindings.findChildViewById(rootView, id);
-      if (btnLogin == null) {
-        break missingId;
-      }
-
       id = R.id.join_age;
       EditText joinAge = ViewBindings.findChildViewById(rootView, id);
       if (joinAge == null) {
@@ -117,6 +110,12 @@ public final class ActivityRegisterBinding implements ViewBinding {
       id = R.id.join_area;
       EditText joinArea = ViewBindings.findChildViewById(rootView, id);
       if (joinArea == null) {
+        break missingId;
+      }
+
+      id = R.id.join_button;
+      Button joinButton = ViewBindings.findChildViewById(rootView, id);
+      if (joinButton == null) {
         break missingId;
       }
 
@@ -144,20 +143,33 @@ public final class ActivityRegisterBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textView2;
-      TextView textView2 = ViewBindings.findChildViewById(rootView, id);
-      if (textView2 == null) {
+      id = R.id.login_button;
+      Button loginButton = ViewBindings.findChildViewById(rootView, id);
+      if (loginButton == null) {
+        break missingId;
+      }
+
+      id = R.id.relativeLayout;
+      RelativeLayout relativeLayout = ViewBindings.findChildViewById(rootView, id);
+      if (relativeLayout == null) {
         break missingId;
       }
 
       id = R.id.textView_main_result;
-      TextView textViewMainResult = ViewBindings.findChildViewById(rootView, id);
+      EditText textViewMainResult = ViewBindings.findChildViewById(rootView, id);
       if (textViewMainResult == null) {
         break missingId;
       }
 
-      return new ActivityRegisterBinding((ConstraintLayout) rootView, btnJoin, btnLogin, joinAge,
-          joinArea, joinEmail, joinName, joinPhone, joinPwck, textView2, textViewMainResult);
+      id = R.id.toolbar;
+      Toolbar toolbar = ViewBindings.findChildViewById(rootView, id);
+      if (toolbar == null) {
+        break missingId;
+      }
+
+      return new ActivityRegisterBinding((CoordinatorLayout) rootView, joinAge, joinArea,
+          joinButton, joinEmail, joinName, joinPhone, joinPwck, loginButton, relativeLayout,
+          textViewMainResult, toolbar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

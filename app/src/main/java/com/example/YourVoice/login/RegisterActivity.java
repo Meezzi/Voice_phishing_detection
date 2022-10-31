@@ -4,6 +4,8 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
@@ -37,6 +39,9 @@ public class RegisterActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
 
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.hide();
+
         join_email = (EditText)findViewById(R.id.join_email);
         join_pwck = (EditText)findViewById(R.id.join_pwck);
         join_name = (EditText)findViewById(R.id.join_name);
@@ -49,14 +54,14 @@ public class RegisterActivity extends AppCompatActivity {
 
         mTextViewResult.setMovementMethod(new ScrollingMovementMethod());
 
-        Button btn_login = (Button)findViewById(R.id.btn_login);
+        Button btn_login = (Button)findViewById(R.id.login_button);
         btn_login.setOnClickListener(view -> {
             Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
             startActivity(intent);
         });
 
 
-        Button btn_join = (Button)findViewById(R.id.btn_join);
+        Button btn_join = (Button)findViewById(R.id.join_button);
         btn_join.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

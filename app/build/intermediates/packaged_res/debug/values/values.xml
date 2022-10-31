@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
     <color name="black">#FF000000</color>
+    <color name="colorAccent">#fb7b7b</color>
+    <color name="colorPrimary">#688ae2</color>
+    <color name="colorPrimaryDark">#688ae2</color>
     <color name="ic_logo_background">#FFFFFF</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
@@ -16,14 +19,34 @@
     <string name="title_list">차단목록</string>
     <string name="title_myPage">마이페이지</string>
     <string name="title_record">녹음파일</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.ActionBar"/>
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
     <style name="SplashTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
     </style>
     <style name="Theme.YourVoice" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
         <item name="colorOnPrimary">@color/white</item>
         
         <item name="colorSecondary">@color/teal_200</item>

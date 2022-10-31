@@ -1,5 +1,6 @@
 package com.example.YourVoice.login;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.YourVoice.MainActivity;
@@ -23,6 +24,9 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.hide();
 
         login_email = findViewById(R.id.login_email);
         login_password = findViewById(R.id.login_password);
