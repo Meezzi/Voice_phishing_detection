@@ -19,9 +19,9 @@
 
     <fragment
         android:id="@+id/navigation_list"
-        android:name="com.example.YourVoice.ui.List.ListFragment"
+        android:name="com.example.YourVoice.ui.List.AddressFragment"
         android:label="@string/title_list"
-        tools:layout="@layout/fragment_list" />
+        tools:layout="@layout/fragment_address" />
 
     <fragment
         android:id="@+id/navigation_myPage"

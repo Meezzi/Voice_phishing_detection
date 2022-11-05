@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class RegisterRequest extends StringRequest  {
     // 서버 url 설정 (mongoDB 연동)
-    final static private String URL = "http://192.168.0.5/register.php"; // "http:// 퍼블릭 DNS 주소/Register.php"
+    final static private String URL = "http://192.168.0.5/app/insert.php"; // "http:// 퍼블릭 DNS 주소/Register.php"
     private Map<String, String> parameters;
     public RegisterRequest(String email, String pwck, String name, String area, String age, String phone, Response.Listener<String> listener){
         super(Method.POST, URL, listener, null);

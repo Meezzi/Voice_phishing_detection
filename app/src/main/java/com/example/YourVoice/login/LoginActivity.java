@@ -43,8 +43,8 @@ public class LoginActivity extends AppCompatActivity {
         login_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String email = login_email.getText().toString();
-                String pwck = login_password.getText().toString();
+                String user_email = login_email.getText().toString();
+                String user_pw = login_password.getText().toString();
 
                 Response.Listener<String> responseListener = new Response.Listener<String>() {
                     @Override
@@ -56,12 +56,12 @@ public class LoginActivity extends AppCompatActivity {
                             if (success) {
                                 Toast.makeText(getApplicationContext(), "로그인에 성공했습니다.", Toast.LENGTH_SHORT).show();
 
-                                String db_email = jsonResponse.getString("email");
-                                String db_pwck = jsonResponse.getString("pwck");
+                                String db_email = jsonResponse.getString("user_email");
+                                String db_pwck = jsonResponse.getString("user_pw");
                                 Intent intent = new Intent(LoginActivity.this, MainActivity.class);
                                 // 로그인 하면서 사용자 정보 넘기기
-                                intent.putExtra("email", email);
-                                intent.putExtra("pwck", pwck);
+                                intent.putExtra("user_email", user_email);
+                                intent.putExtra("user_pw", user_pw);
                                 startActivity(intent);
 
                             } else {
@@ -74,7 +74,7 @@ public class LoginActivity extends AppCompatActivity {
                     }
                 };
 
-                LoginRequest loginRequest = new LoginRequest(email, pwck, responseListener);
+                LoginRequest loginRequest = new LoginRequest(user_email, user_pw, responseListener);
                 RequestQueue queue = Volley.newRequestQueue(LoginActivity.this);
                 queue.add(loginRequest);
 
