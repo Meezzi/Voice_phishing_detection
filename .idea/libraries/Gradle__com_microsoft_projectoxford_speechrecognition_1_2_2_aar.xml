@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.projectoxford:speechrecognition:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/60a6da59e80af02681699746151be55f/transformed/speechrecognition-1.2.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/60a6da59e80af02681699746151be55f/transformed/speechrecognition-1.2.2/jars/libs/SpeechSDK.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/60a6da59e80af02681699746151be55f/transformed/speechrecognition-1.2.2/res" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/60a6da59e80af02681699746151be55f/transformed/speechrecognition-1.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.threeten:threetenbp:1.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/org.threeten/threetenbp/1.5.0/736eaa38380d86f857b4ba455200f04fc611b4fe/threetenbp-1.5.0-no-tzdb.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/org.threeten/threetenbp/1.5.0/8af09e4cba8e0f5115f1be705d6b88a1d595bfd3/threetenbp-1.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/org.threeten/threetenbp/1.5.0/8007179c3fd2b547ab4a3a9fd1ad4ff5234be558/threetenbp-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

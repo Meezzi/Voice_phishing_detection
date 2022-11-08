@@ -1,17 +1,21 @@
 //package com.example.YourVoice;
 //
 //import android.os.AsyncTask;
+//import android.speech.SpeechRecognizer;
 //import android.util.Log;
 //import android.widget.TextView;
-//import android.widget.Toast;
 //
+//import com.microsoft.cognitiveservices.speech.ResultReason;
+//import com.microsoft.cognitiveservices.speech.SpeechConfig;
+//import com.microsoft.cognitiveservices.speech.SpeechRecognitionResult;
 //
 //import org.json.JSONException;
 //import org.json.JSONObject;
 //
 //import java.util.concurrent.Future;
 //
-//public class SpeechToText extends AsyncTask {
+//
+//public class SpeechToText {
 //
 //    private static String speechSubscriptionKey = "920e15067413402fbbde3f577f92a796";
 //    private static String serviceRegion = "koreacentral";
@@ -21,7 +25,6 @@
 //    public NetworkTask networkTask;
 //    public TextView m_textView;
 //    public String phoneNum;
-//    public ConnectFirebase connectFirebase;
 //    public TextView m_accuracy;
 //
 //    public SpeechToText(CallActivity callActivity1,TextView textView,String number,TextView accuracy){
@@ -29,7 +32,6 @@
 //        m_textView = textView;
 //        phoneNum = number;
 //        m_accuracy = accuracy;
-//        connectFirebase = new ConnectFirebase();
 //    }
 //    @Override
 //    protected Object doInBackground(Object[] objects) {
@@ -61,7 +63,6 @@
 //                txt = txt.substring(txt.indexOf('<')+1,txt.indexOf('>'));
 //                m_textView.setText(m_textView.getText() +" "+ txt);
 //                sendToServer((String) m_textView.getText());
-//                m_accuracy.setText(String.valueOf(connectFirebase.GetAccuracy(phoneNum)));
 //                reco.close();
 //            } catch (Exception ex) {
 //                Log.d(TAG,"unexpected " + ex.getMessage());

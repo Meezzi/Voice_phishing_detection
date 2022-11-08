@@ -1,31 +1,40 @@
 package com.example.YourVoice.ui.MyPage;
 
 public class PersonalData {
-    private String member_id;
-    private String member_name;
-    private String member_address;
+    private String user_name;
+    private String user_email;
+    private String user_phpone;
+    private String user_area;
 
-    public String getMember_id() {
-        return member_id;
+    public String getuser_name() {
+        return user_name;
     }
 
-    public String getMember_name() {
-        return member_name;
+    public String getuser_email() {
+        return user_email;
     }
 
-    public String getMember_address() {
-        return member_address;
+    public String getuser_phone() {
+        return user_phpone;
     }
 
-    public void setMember_id(String member_id) {
-        this.member_id = member_id;
+    public String getuser_area() {
+        return user_area;
     }
 
-    public void setMember_name(String member_name) {
-        this.member_name = member_name;
+    public void setuser_name(String user_name) {
+        this.user_name = user_name;
     }
 
-    public void setMember_address(String member_address) {
-        this.member_address = member_address;
+    public void setuser_email(String member_name) {
+        this.user_email = user_email;
+    }
+
+    public void setuser_phpone(String user_phpone) {
+        this.user_phpone = user_phpone;
+    }
+
+    public void setuser_area(String user_area) {
+        this.user_area = user_area;
     }
 }

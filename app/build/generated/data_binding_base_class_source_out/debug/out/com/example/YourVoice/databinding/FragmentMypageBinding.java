@@ -4,13 +4,11 @@ package com.example.YourVoice.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.recyclerview.widget.RecyclerView;
+import androidx.appcompat.widget.Toolbar;
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.YourVoice.R;
@@ -20,64 +18,37 @@ import java.lang.String;
 
 public final class FragmentMypageBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final CoordinatorLayout rootView;
 
   @NonNull
-  public final Button buttonMainAll;
+  public final TextView loginEmail;
 
   @NonNull
-  public final Button buttonMainInsert;
+  public final TextView profileArea;
 
   @NonNull
-  public final Button buttonMainSearch;
+  public final TextView profileEmail;
 
   @NonNull
-  public final EditText editTextMainCountry;
+  public final TextView profileNumber;
 
   @NonNull
-  public final EditText editTextMainName;
+  public final Toolbar toolbar;
 
-  @NonNull
-  public final EditText editTextMainSearchKeyword;
-
-  @NonNull
-  public final RecyclerView listViewMainList;
-
-  @NonNull
-  public final TextView textViewMainDebug;
-
-  @NonNull
-  public final TextView textViewMainInput;
-
-  @NonNull
-  public final TextView textViewMainResult;
-
-  @NonNull
-  public final TextView textViewMainSearch;
-
-  private FragmentMypageBinding(@NonNull LinearLayout rootView, @NonNull Button buttonMainAll,
-      @NonNull Button buttonMainInsert, @NonNull Button buttonMainSearch,
-      @NonNull EditText editTextMainCountry, @NonNull EditText editTextMainName,
-      @NonNull EditText editTextMainSearchKeyword, @NonNull RecyclerView listViewMainList,
-      @NonNull TextView textViewMainDebug, @NonNull TextView textViewMainInput,
-      @NonNull TextView textViewMainResult, @NonNull TextView textViewMainSearch) {
+  private FragmentMypageBinding(@NonNull CoordinatorLayout rootView, @NonNull TextView loginEmail,
+      @NonNull TextView profileArea, @NonNull TextView profileEmail,
+      @NonNull TextView profileNumber, @NonNull Toolbar toolbar) {
     this.rootView = rootView;
-    this.buttonMainAll = buttonMainAll;
-    this.buttonMainInsert = buttonMainInsert;
-    this.buttonMainSearch = buttonMainSearch;
-    this.editTextMainCountry = editTextMainCountry;
-    this.editTextMainName = editTextMainName;
-    this.editTextMainSearchKeyword = editTextMainSearchKeyword;
-    this.listViewMainList = listViewMainList;
-    this.textViewMainDebug = textViewMainDebug;
-    this.textViewMainInput = textViewMainInput;
-    this.textViewMainResult = textViewMainResult;
-    this.textViewMainSearch = textViewMainSearch;
+    this.loginEmail = loginEmail;
+    this.profileArea = profileArea;
+    this.profileEmail = profileEmail;
+    this.profileNumber = profileNumber;
+    this.toolbar = toolbar;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public CoordinatorLayout getRoot() {
     return rootView;
   }
 
@@ -102,76 +73,38 @@ public final class FragmentMypageBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.button_main_all;
-      Button buttonMainAll = ViewBindings.findChildViewById(rootView, id);
-      if (buttonMainAll == null) {
+      id = R.id.login_email;
+      TextView loginEmail = ViewBindings.findChildViewById(rootView, id);
+      if (loginEmail == null) {
         break missingId;
       }
 
-      id = R.id.button_main_insert;
-      Button buttonMainInsert = ViewBindings.findChildViewById(rootView, id);
-      if (buttonMainInsert == null) {
+      id = R.id.profile_area;
+      TextView profileArea = ViewBindings.findChildViewById(rootView, id);
+      if (profileArea == null) {
         break missingId;
       }
 
-      id = R.id.button_main_search;
-      Button buttonMainSearch = ViewBindings.findChildViewById(rootView, id);
-      if (buttonMainSearch == null) {
+      id = R.id.profile_email;
+      TextView profileEmail = ViewBindings.findChildViewById(rootView, id);
+      if (profileEmail == null) {
         break missingId;
       }
 
-      id = R.id.editText_main_country;
-      EditText editTextMainCountry = ViewBindings.findChildViewById(rootView, id);
-      if (editTextMainCountry == null) {
+      id = R.id.profile_number;
+      TextView profileNumber = ViewBindings.findChildViewById(rootView, id);
+      if (profileNumber == null) {
         break missingId;
       }
 
-      id = R.id.editText_main_name;
-      EditText editTextMainName = ViewBindings.findChildViewById(rootView, id);
-      if (editTextMainName == null) {
+      id = R.id.toolbar;
+      Toolbar toolbar = ViewBindings.findChildViewById(rootView, id);
+      if (toolbar == null) {
         break missingId;
       }
 
-      id = R.id.editText_main_searchKeyword;
-      EditText editTextMainSearchKeyword = ViewBindings.findChildViewById(rootView, id);
-      if (editTextMainSearchKeyword == null) {
-        break missingId;
-      }
-
-      id = R.id.listView_main_list;
-      RecyclerView listViewMainList = ViewBindings.findChildViewById(rootView, id);
-      if (listViewMainList == null) {
-        break missingId;
-      }
-
-      id = R.id.textView_main_debug;
-      TextView textViewMainDebug = ViewBindings.findChildViewById(rootView, id);
-      if (textViewMainDebug == null) {
-        break missingId;
-      }
-
-      id = R.id.textView_main_input;
-      TextView textViewMainInput = ViewBindings.findChildViewById(rootView, id);
-      if (textViewMainInput == null) {
-        break missingId;
-      }
-
-      id = R.id.textView_main_result;
-      TextView textViewMainResult = ViewBindings.findChildViewById(rootView, id);
-      if (textViewMainResult == null) {
-        break missingId;
-      }
-
-      id = R.id.textView_main_search;
-      TextView textViewMainSearch = ViewBindings.findChildViewById(rootView, id);
-      if (textViewMainSearch == null) {
-        break missingId;
-      }
-
-      return new FragmentMypageBinding((LinearLayout) rootView, buttonMainAll, buttonMainInsert,
-          buttonMainSearch, editTextMainCountry, editTextMainName, editTextMainSearchKeyword,
-          listViewMainList, textViewMainDebug, textViewMainInput, textViewMainResult,
-          textViewMainSearch);
+      return new FragmentMypageBinding((CoordinatorLayout) rootView, loginEmail, profileArea,
+          profileEmail, profileNumber, toolbar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -2,17 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     android:layout_margin="5dp"
     android:padding="5dp">
-
-    <TextView
-        android:id="@+id/textView_list_id"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="5dp"
-        android:padding="5dp" />
-
 
     <TextView
         android:id="@+id/textView_list_name"
@@ -23,7 +15,22 @@
 
 
     <TextView
-        android:id="@+id/textView_list_address"
+        android:id="@+id/textView_list_email"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="5dp" />
+
+
+    <TextView
+        android:id="@+id/textView_list_phone"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="5dp" />
+
+    <TextView
+        android:id="@+id/textView_list_area"
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"

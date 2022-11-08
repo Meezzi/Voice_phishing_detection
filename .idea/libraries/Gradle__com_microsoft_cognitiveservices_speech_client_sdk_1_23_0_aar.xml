@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.cognitiveservices.speech:client-sdk:1.23.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/2eff26ed7b6af7b102dd651221d1f00c/transformed/client-sdk-1.23.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/2eff26ed7b6af7b102dd651221d1f00c/transformed/client-sdk-1.23.0/res" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/2eff26ed7b6af7b102dd651221d1f00c/transformed/client-sdk-1.23.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.microsoft.cognitiveservices.speech/client-sdk/1.23.0/3c39dce8082f9635ffc91c2efcec8f4425a274e6/client-sdk-1.23.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.microsoft.cognitiveservices.speech/client-sdk/1.23.0/5eff3d9a5bfd8a33436f2745965d1c26e14f3e3/client-sdk-1.23.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

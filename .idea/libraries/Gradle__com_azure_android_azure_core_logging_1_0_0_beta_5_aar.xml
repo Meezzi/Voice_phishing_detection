@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.azure.android:azure-core-logging:1.0.0-beta.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/49575d197571b2092e14b7a0712861ac/transformed/azure-core-logging-1.0.0-beta.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/49575d197571b2092e14b7a0712861ac/transformed/azure-core-logging-1.0.0-beta.5/res" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/49575d197571b2092e14b7a0712861ac/transformed/azure-core-logging-1.0.0-beta.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-core-logging/1.0.0-beta.5/3be8d129036d6ba3ee4e1874dbcb3cd4e5e9cfa8/azure-core-logging-1.0.0-beta.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-core-logging/1.0.0-beta.5/39082c0902da5b4b28a83f7064ce6b2625cdd077/azure-core-logging-1.0.0-beta.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

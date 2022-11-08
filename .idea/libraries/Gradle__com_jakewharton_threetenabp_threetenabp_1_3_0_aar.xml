@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.threetenabp:threetenabp:1.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/9697aecc22170b53482977d6691f53c3/transformed/threetenabp-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/9697aecc22170b53482977d6691f53c3/transformed/threetenabp-1.3.0/res" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/9697aecc22170b53482977d6691f53c3/transformed/threetenabp-1.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.jakewharton.threetenabp/threetenabp/1.3.0/9abe44af02d321779aa7efec50b7a8fb83f3ff27/threetenabp-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.jakewharton.threetenabp/threetenabp/1.3.0/aec9845eb9f401af0c2524867a327dc810782a51/threetenabp-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

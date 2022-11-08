@@ -52,6 +52,10 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_splash_screen.xml"
     },
     {
+        "merged": "com.example.YourVoice.app-merged_res-5:/layout_item_list.xml.flat",
+        "source": "com.example.YourVoice.app-main-7:/layout/item_list.xml"
+    },
+    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\mipmap-anydpi-v26_ic_logo.xml.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-anydpi-v26\\ic_logo.xml"
     },
@@ -200,10 +204,6 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\mipmap-xxxhdpi\\ic_logo.png"
     },
     {
-        "merged": "com.example.YourVoice.app-merged_res-5:/layout_fragment_address.xml.flat",
-        "source": "com.example.YourVoice.app-main-7:/layout/fragment_address.xml"
-    },
-    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\drawable-v24_six.png.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\drawable-v24\\six.png"
     },
@@ -254,6 +254,10 @@
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_google_sttactivity.xml.flat",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_google_sttactivity.xml"
+    },
+    {
+        "merged": "com.example.YourVoice.app-merged_res-5:/layout_fragment_record.xml.flat",
+        "source": "com.example.YourVoice.app-main-7:/layout/fragment_record.xml"
     },
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-merged_res-5:\\layout_activity_login.xml.flat",

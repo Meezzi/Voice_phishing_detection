@@ -20,20 +20,25 @@ public final class ItemListBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final TextView textViewListAddress;
+  public final TextView textViewListArea;
 
   @NonNull
-  public final TextView textViewListId;
+  public final TextView textViewListEmail;
 
   @NonNull
   public final TextView textViewListName;
 
-  private ItemListBinding(@NonNull LinearLayout rootView, @NonNull TextView textViewListAddress,
-      @NonNull TextView textViewListId, @NonNull TextView textViewListName) {
+  @NonNull
+  public final TextView textViewListPhone;
+
+  private ItemListBinding(@NonNull LinearLayout rootView, @NonNull TextView textViewListArea,
+      @NonNull TextView textViewListEmail, @NonNull TextView textViewListName,
+      @NonNull TextView textViewListPhone) {
     this.rootView = rootView;
-    this.textViewListAddress = textViewListAddress;
-    this.textViewListId = textViewListId;
+    this.textViewListArea = textViewListArea;
+    this.textViewListEmail = textViewListEmail;
     this.textViewListName = textViewListName;
+    this.textViewListPhone = textViewListPhone;
   }
 
   @Override
@@ -63,15 +68,15 @@ public final class ItemListBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.textView_list_address;
-      TextView textViewListAddress = ViewBindings.findChildViewById(rootView, id);
-      if (textViewListAddress == null) {
+      id = R.id.textView_list_area;
+      TextView textViewListArea = ViewBindings.findChildViewById(rootView, id);
+      if (textViewListArea == null) {
         break missingId;
       }
 
-      id = R.id.textView_list_id;
-      TextView textViewListId = ViewBindings.findChildViewById(rootView, id);
-      if (textViewListId == null) {
+      id = R.id.textView_list_email;
+      TextView textViewListEmail = ViewBindings.findChildViewById(rootView, id);
+      if (textViewListEmail == null) {
         break missingId;
       }
 
@@ -81,8 +86,14 @@ public final class ItemListBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ItemListBinding((LinearLayout) rootView, textViewListAddress, textViewListId,
-          textViewListName);
+      id = R.id.textView_list_phone;
+      TextView textViewListPhone = ViewBindings.findChildViewById(rootView, id);
+      if (textViewListPhone == null) {
+        break missingId;
+      }
+
+      return new ItemListBinding((LinearLayout) rootView, textViewListArea, textViewListEmail,
+          textViewListName, textViewListPhone);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

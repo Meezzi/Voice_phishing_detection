@@ -4,6 +4,7 @@ package com.example.YourVoice.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,11 +21,29 @@ public final class FragmentRecordBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView sttResult;
+  public final TextView accuracyText;
 
-  private FragmentRecordBinding(@NonNull ConstraintLayout rootView, @NonNull TextView sttResult) {
+  @NonNull
+  public final Button endCallBtn;
+
+  @NonNull
+  public final TextView phoneNum;
+
+  @NonNull
+  public final TextView speechToText;
+
+  @NonNull
+  public final TextView timer;
+
+  private FragmentRecordBinding(@NonNull ConstraintLayout rootView, @NonNull TextView accuracyText,
+      @NonNull Button endCallBtn, @NonNull TextView phoneNum, @NonNull TextView speechToText,
+      @NonNull TextView timer) {
     this.rootView = rootView;
-    this.sttResult = sttResult;
+    this.accuracyText = accuracyText;
+    this.endCallBtn = endCallBtn;
+    this.phoneNum = phoneNum;
+    this.speechToText = speechToText;
+    this.timer = timer;
   }
 
   @Override
@@ -54,13 +73,38 @@ public final class FragmentRecordBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.sttResult;
-      TextView sttResult = ViewBindings.findChildViewById(rootView, id);
-      if (sttResult == null) {
+      id = R.id.accuracyText;
+      TextView accuracyText = ViewBindings.findChildViewById(rootView, id);
+      if (accuracyText == null) {
         break missingId;
       }
 
-      return new FragmentRecordBinding((ConstraintLayout) rootView, sttResult);
+      id = R.id.endCallBtn;
+      Button endCallBtn = ViewBindings.findChildViewById(rootView, id);
+      if (endCallBtn == null) {
+        break missingId;
+      }
+
+      id = R.id.phoneNum;
+      TextView phoneNum = ViewBindings.findChildViewById(rootView, id);
+      if (phoneNum == null) {
+        break missingId;
+      }
+
+      id = R.id.speechToText;
+      TextView speechToText = ViewBindings.findChildViewById(rootView, id);
+      if (speechToText == null) {
+        break missingId;
+      }
+
+      id = R.id.timer;
+      TextView timer = ViewBindings.findChildViewById(rootView, id);
+      if (timer == null) {
+        break missingId;
+      }
+
+      return new FragmentRecordBinding((ConstraintLayout) rootView, accuracyText, endCallBtn,
+          phoneNum, speechToText, timer);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

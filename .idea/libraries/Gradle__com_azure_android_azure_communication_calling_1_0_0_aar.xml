@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.azure.android:azure-communication-calling:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/VideoHost.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/dl-audio.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/dl-common.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/dl-video.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/hw-video-codec.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/palutils.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/palvideo.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/rt_java_bindings.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/jars/libs/skypert.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/007f688bbe91b6b9dc8ea62db3360b9c/transformed/azure-communication-calling-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-communication-calling/1.0.0/f941141c6c08cc72439589103436ef57eea8c8cd/azure-communication-calling-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-communication-calling/1.0.0/d3d588757b199066f14af8dda85523a48d7342c5/azure-communication-calling-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

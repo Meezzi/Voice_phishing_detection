@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.azure.android:azure-core:1.0.0-beta.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/99f2cac8a3bf4bed031cf5b3d2087096/transformed/azure-core-1.0.0-beta.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/99f2cac8a3bf4bed031cf5b3d2087096/transformed/azure-core-1.0.0-beta.5/res" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/99f2cac8a3bf4bed031cf5b3d2087096/transformed/azure-core-1.0.0-beta.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-core/1.0.0-beta.5/f1afe72e8b0198d3ae251c7c2a47c0bc2c49b168/azure-core-1.0.0-beta.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-core/1.0.0-beta.5/fc7feed16815f4dced1d6ddb166558ae0bcb35d0/azure-core-1.0.0-beta.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

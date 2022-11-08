@@ -28,7 +28,7 @@ import java.net.URL;
 
 public class RegisterActivity extends AppCompatActivity {
 
-    private static String IP_ADDRESS = "192.168.0.5/test/insert.php";
+    private static String IP_ADDRESS = "192.168.0.5/app/";
     private static String TAG = "phptest";
 
     private EditText join_email, join_pwck, join_name, join_area, join_age, join_phone;
@@ -66,15 +66,15 @@ public class RegisterActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                String email = join_email.getText().toString();
-                String pwck = join_pwck.getText().toString();
-                String name = join_name.getText().toString();
-                String area = join_area.getText().toString();
-                String age = join_age.getText().toString();
-                String phone = join_phone.getText().toString();
+                String user_email = join_email.getText().toString();
+                String user_pw = join_pwck.getText().toString();
+                String user_name = join_name.getText().toString();
+                String user_area = join_area.getText().toString();
+                String user_age = join_age.getText().toString();
+                String user_phone = join_phone.getText().toString();
 
                 InsertData task = new InsertData();
-                task.execute("http://" + IP_ADDRESS + "/insert.php", email, pwck, name, area, age, phone);
+                task.execute("http://" + IP_ADDRESS + "/insert.php", user_email, user_pw, user_name, user_area, user_age, user_phone);
 
                 join_email.setText("");
                 join_pwck.setText("");
@@ -115,15 +115,15 @@ public class RegisterActivity extends AppCompatActivity {
         @Override
         protected String doInBackground(String... params) {
 
-            String email = (String)params[1];
-            String pwck = (String)params[2];
-            String name = (String)params[3];
-            String area = (String)params[4];
-            String age = (String)params[5];
-            String phone = (String)params[6];
+            String user_email = (String)params[1];
+            String user_pw = (String)params[2];
+            String user_name = (String)params[3];
+            String user_area = (String)params[4];
+            String user_age = (String)params[5];
+            String user_phone = (String)params[6];
 
             String serverURL = (String)params[0];
-            String postParameters = "&email=" + email + "&pwck=" + pwck + "&name=" + name+ "&area=" + area + "&age=" + age + "&phone=" + phone ;
+            String postParameters = "&user_email=" + user_email + "&user_pw=" + user_pw + "&user_name=" + user_name+ "&user_area=" + user_area + "&user_age=" + user_age + "&user_phone=" + user_phone ;
 
 
             try {

@@ -4,6 +4,10 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\fragment_address.xml"
     },
     {
+        "merged": "com.example.YourVoice.app-mergeDebugResources-4:/layout/fragment_record.xml",
+        "source": "com.example.YourVoice.app-main-7:/layout/fragment_record.xml"
+    },
+    {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-mergeDebugResources-4:\\layout\\activity_splash_screen.xml",
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_splash_screen.xml"
     },
@@ -12,8 +16,8 @@
         "source": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-main-7:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.YourVoice.app-mergeDebugResources-4:/layout/fragment_address.xml",
-        "source": "com.example.YourVoice.app-main-7:/layout/fragment_address.xml"
+        "merged": "com.example.YourVoice.app-mergeDebugResources-4:/layout/item_list.xml",
+        "source": "com.example.YourVoice.app-main-7:/layout/item_list.xml"
     },
     {
         "merged": "C:\\Users\\alswl\\Downloads\\rjeffm\\CallRecorder\\daemon\\7.3.3\\com.example.YourVoice.app-mergeDebugResources-4:\\layout\\fragment_record.xml",

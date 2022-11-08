@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.azure.android:azure-communication-common:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/a1830cfd84a1870856e3e7c2b84d0a95/transformed/azure-communication-common-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/a1830cfd84a1870856e3e7c2b84d0a95/transformed/azure-communication-common-1.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/transforms-3/a1830cfd84a1870856e3e7c2b84d0a95/transformed/azure-communication-common-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-communication-common/1.0.0/13b12dd2cc8195d2eb4e1dd12de978c867a5aee6/azure-communication-common-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/rjeffm/CallRecorder/caches/modules-2/files-2.1/com.azure.android/azure-communication-common/1.0.0/13b4557dbc35f162410cbe67467d8797fc245104/azure-communication-common-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

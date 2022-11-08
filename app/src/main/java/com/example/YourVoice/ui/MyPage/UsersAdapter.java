@@ -25,15 +25,18 @@ public class UsersAdapter extends RecyclerView.Adapter<UsersAdapter.CustomViewHo
     }
 
     class CustomViewHolder extends RecyclerView.ViewHolder {
-        protected TextView id;
-        protected TextView name;
-        protected TextView country;
+        protected TextView user_name;
+        protected TextView user_email;
+        protected TextView user_phone;
+        protected TextView user_area;
 
 
         public CustomViewHolder(View view) {
             super(view);
-            this.id = (TextView) view.findViewById(R.id.textView_list_id);
-            this.name = (TextView) view.findViewById(R.id.textView_list_name);
+            this.user_name = (TextView) view.findViewById(R.id.textView_list_name);
+            this.user_email = (TextView) view.findViewById(R.id.textView_list_email);
+            this.user_phone = (TextView) view.findViewById(R.id.textView_list_phone);
+            this.user_area = (TextView) view.findViewById(R.id.textView_list_area);
         }
     }
 
@@ -49,8 +52,10 @@ public class UsersAdapter extends RecyclerView.Adapter<UsersAdapter.CustomViewHo
     @Override
     public void onBindViewHolder(@NonNull CustomViewHolder viewholder, int position) {
 
-        viewholder.id.setText(mList.get(position).getMember_id());
-        viewholder.name.setText(mList.get(position).getMember_name());
+        viewholder.user_name.setText(mList.get(position).getuser_name());
+        viewholder.user_email.setText(mList.get(position).getuser_email());
+        viewholder.user_phone.setText(mList.get(position).getuser_phone());
+        viewholder.user_area.setText(mList.get(position).getuser_area());
     }
 
     @Override
