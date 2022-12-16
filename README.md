@@ -1,5 +1,5 @@
 # :calling: Voice_phishing_detection
-### NET 챌린지 캠프 시즌9에 참여했던 프로젝트입니다.
+### NET 챌린지 캠프 시즌9에 참여했던 프로젝트로 은상을 수상하였습니다.
 ![image](https://user-images.githubusercontent.com/68285922/208034326-856ac2ba-a42c-487c-8da4-89c479f9acb0.png)
 </br>
 
