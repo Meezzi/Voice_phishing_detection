@@ -8,10 +8,14 @@
 
 </br>
 
-# :team: 팀원
-앱 : 강민지, 김희연
-머신러닝 : 김종원, 박성윤
-웹 : 고수완, 이준권
+# :laughing: 팀원
+### Application : 강민지, 김희연
+
+### Machine Learning & Algorithm : 김종원, 박성윤
+
+### Web : 고수완, 이준권
+
+
 
 
 # :paperclip: 기능
