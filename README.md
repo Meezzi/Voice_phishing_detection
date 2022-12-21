@@ -15,8 +15,12 @@
 
 ### Web : 고수완, 이준권
 
+||강민지|김희연|김종원|박성윤|고수완|이준권|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|분야|Application|Application|Machine Learning & Algorithm |Machine Learning & Algorithm |Web|Web
 
 
 
+</br>
 # :paperclip: 기능
 ### 
