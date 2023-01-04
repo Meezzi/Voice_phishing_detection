@@ -100,7 +100,7 @@
 >### 🔄 데이터베이스 연동
 |웹 DB 연동|애플리케이션 DB 연동|
 |:-:||:-:|
-|<img src ="https://user-images.githubusercontent.com/109738563/210557095-efc7e130-7d1f-43be-b96a-df4ae5669bc1.png ">|<img src="https://user-images.githubusercontent.com/109738563/210557197-ac798297-182f-4046-a333-4389b765b821.png">|
+|<img src ="https://user-images.githubusercontent.com/109738563/210557095-efc7e130-7d1f-43be-b96a-df4ae5669bc1.png">|<img src="https://user-images.githubusercontent.com/109738563/210557197-ac798297-182f-4046-a333-4389b765b821.png">|
 
 >**웹과 애플리케이션에 DB 내용이 일치하는 것으로 정상적으로 연동된 결과를 확인하였습니다.**
 </br>
@@ -108,7 +108,7 @@
 >### 💹 웹 대시보드 화면
 |웹 대시보드 화면|
 |:-:|
-|<img src="(https://user-images.githubusercontent.com/109738563/210578740-6fb0701c-1c80-4dc9-a7be-af5b9c8216e7.png">|
+|<img src="https://user-images.githubusercontent.com/109738563/210578740-6fb0701c-1c80-4dc9-a7be-af5b9c8216e7.png">|
 
 **웹 대시보드 화면은 Bootstrap의 대시보드 디자인 틀을 사용하였고, DB와 연동하여 저장된 값을 가져오는 기능을 구현하였습니다.
 먼저 애플리케이션 사용자 수는 애플리케이션에서 회원가입한 사람의 정보가 DB서버에 저장되면 웹에서는 DB서버에 저장된 사용자의 총 수를 가져오도록 구현하였고, 보이스피싱 탐지 수는 DB서버의 보이스피싱 탐지에 저장된 값의 총 수를 가져와 구현하였으며, 마지막으로 파이썬 기본 기능인 현재 시간을 나타내도록 구현하였습니다.
