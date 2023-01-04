@@ -85,7 +85,9 @@
 |Python Django|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210552769-69ef8f82-1a35-4b42-bac8-69892a685afb.png">|
+
 **웹부분은 파이썬 Django를 이용하여 서버를 구축하였습니다.**
+
 
 >### 🗄️ 데이터베이스(DB)
 |My SQL DB|
@@ -93,13 +95,15 @@
 |<img src="https://user-images.githubusercontent.com/109738563/210556592-fef7c496-374d-4df5-ad2c-b6cf258b39d1.png">|
 
 >**데이터 베이스는 웹과 애플리케이션에서 사용자 정보와 결과 값을 저장하기 위해 DB 서버하나를 두어 원격으로 연동하였습니다.**
->
+
+
 >### 🔄 데이터베이스 연동
 |웹 DB 연동|애플리케이션 DB 연동|
 |:-:||:-:|
 |<img src ="https://user-images.githubusercontent.com/109738563/210557095-efc7e130-7d1f-43be-b96a-df4ae5669bc1.png">|<img src="https://user-images.githubusercontent.com/109738563/210557197-ac798297-182f-4046-a333-4389b765b821.png">|
 
 >**웹과 애플리케이션에 DB 내용이 일치하는 것으로 정상적으로 연동된 결과를 확인하였습니다.**
+
 
 >### 💹 웹 대시보드 화면
 |웹 대시보드 화면|
@@ -110,12 +114,14 @@
 먼저 애플리케이션 사용자 수는 애플리케이션에서 회원가입한 사람의 정보가 DB서버에 저장되면 웹에서는 DB서버에 저장된 사용자의 총 수를 가져오도록 구현하였고, 보이스피싱 탐지 수는 DB서버의 보이스피싱 탐지에 저장된 값의 총 수를 가져와 구현하였으며, 마지막으로 파이썬 기본 기능인 현재 시간을 나타내도록 구현하였습니다.
 또한, Django로 구축한 웹서버는 정적으로 구현되기 때문에 자동으로 5초마다 새로고침하는 기능을 프론트엔드로 구현하였습니다.**
 
+
 >### 🕵️ 탐지로그 현황
 |보이스피싱 탐지 로그 현황|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210580039-80761e68-0dcf-46cb-ad85-da993322f622.png">|
 
 **애플리케이션 부분에서 보이스피싱이 탐지되었을 경우, 탐지된 데이터만 DB서버에 저장을하고 웹 탐지 로그에서는 DB에 저장된 값을 자동으로 읽어오는 기능을 구현하였습니다.**
+
 
 >### 🗺️ 보이스피싱 동향
 |보이스피싱 동향 차트|
@@ -124,10 +130,11 @@
 
 >**웹페이지에 접속하면 연간보이스피싱 동향과 연령별보이스피싱 동향을 한눈에 볼 수 있도록 디자인하였습니다.**
 
+
 >### 🤵 애플리케이션 사용자 수
 |애플리케이션 사용자 리스트|지역별 사용자 리스트(검색 기능)|
 |:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/109738563/210578222-07a2550e-5e22-498d-bb6a-f4fd783bcaca.png"|<img src="https://user-images.githubusercontent.com/109738563/210578300-4b34ad97-5e9b-47f6-85f0-4b44f527ac38.png">|
+|<img src="https://user-images.githubusercontent.com/109738563/210578222-07a2550e-5e22-498d-bb6a-f4fd783bcaca.png">|<img src="https://user-images.githubusercontent.com/109738563/210578300-4b34ad97-5e9b-47f6-85f0-4b44f527ac38.png">|
 
 **애플리케이션을 사용하고 있는 사용자의 정보들을 담은 사용자 목록 화면입니다. 또한 검색기능으로 특정한 사용자를 찾을수 있도록 하였습니다.**
 
