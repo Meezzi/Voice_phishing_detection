@@ -91,7 +91,7 @@
 </br>
 </br>
 
-### 🗄️: 데이터베이스(DB)
+### 🗄️ 데이터베이스(DB)
 |My SQL DB|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210556592-fef7c496-374d-4df5-ad2c-b6cf258b39d1.png">|
