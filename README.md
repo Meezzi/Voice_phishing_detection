@@ -120,7 +120,7 @@
 </br>
 
 </br>
-### 🕵️ 탐지로그 현황
+### 🕵️‍♂️ 탐지로그 현황
 |보이스피싱 탐지 로그 현황|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210580039-80761e68-0dcf-46cb-ad85-da993322f622.png">|
