@@ -82,7 +82,7 @@
 </br>
 </br>
 
->### 🐍: 웹 서버 구축
+>### 🐍 웹 서버 구축
 |Python Django|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210552769-69ef8f82-1a35-4b42-bac8-69892a685afb.png">|
@@ -100,16 +100,16 @@
 </br>
 </br>
 
->### 🔄: 데이터베이스 연동
+>### 🔄 데이터베이스 연동
 |웹 DB 연동|애플리케이션 DB 연동|
-|:-:||:-:|
+|:-:|:-:|
 |<img src ="https://user-images.githubusercontent.com/109738563/210557095-efc7e130-7d1f-43be-b96a-df4ae5669bc1.png">|<img src="https://user-images.githubusercontent.com/109738563/210557197-ac798297-182f-4046-a333-4389b765b821.png">|
 
 >**웹과 애플리케이션에 DB 내용이 일치하는 것으로 정상적으로 연동된 결과를 확인하였습니다.**
 </br>
 </br>
 
->### 💹: 웹 대시보드 화면
+>### 💹 웹 대시보드 화면
 |웹 대시보드 화면|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210578740-6fb0701c-1c80-4dc9-a7be-af5b9c8216e7.png">|
@@ -120,7 +120,7 @@
 </br>
 
 </br>
->### 🕵️: 탐지로그 현황
+>### 🕵️ 탐지로그 현황
 |보이스피싱 탐지 로그 현황|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210580039-80761e68-0dcf-46cb-ad85-da993322f622.png">|
@@ -129,7 +129,7 @@
 </br>
 </br>
 
->### 🗺️: 보이스피싱 동향
+>### 🗺️ 보이스피싱 동향
 |보이스피싱 동향 차트|
 |:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210580803-e011d6c7-1baa-4b2d-8582-a41da07f1a35.png">|
@@ -138,7 +138,7 @@
 </br>
 </br>
 
->### 🤵: 애플리케이션 사용자 수
+>### 🤵 애플리케이션 사용자 수
 |애플리케이션 사용자 리스트|지역별 사용자 리스트(검색 기능)|
 |:-:|:-:|
 |<img src="https://user-images.githubusercontent.com/109738563/210578222-07a2550e-5e22-498d-bb6a-f4fd783bcaca.png">|<img src="https://user-images.githubusercontent.com/109738563/210578300-4b34ad97-5e9b-47f6-85f0-4b44f527ac38.png">|
