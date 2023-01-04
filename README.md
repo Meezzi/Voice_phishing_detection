@@ -100,7 +100,7 @@
 >### 🔄 데이터베이스 연동
 |웹 DB 연동|애플리케이션 DB 연동|
 |:-:||:-:|
-|<img src ="https://user-images.githubusercontent.com/109738563/210557095-efc7e130-7d1f-43be-b96a-df4ae5669bc1.png">|<img src="https://user-images.githubusercontent.com/109738563/210557197-ac798297-182f-4046-a333-4389b765b821.png">|
+|<img src ="https://user-images.githubusercontent.com/109738563/210557095-efc7e130-7d1f-43be-b96a-df4ae5669bc1.png ">|<img src="https://user-images.githubusercontent.com/109738563/210557197-ac798297-182f-4046-a333-4389b765b821.png">|
 
 >**웹과 애플리케이션에 DB 내용이 일치하는 것으로 정상적으로 연동된 결과를 확인하였습니다.**
 
